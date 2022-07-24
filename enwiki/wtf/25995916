@@ -516,19 +516,43 @@
             "number": 2
           },
           "alma_mater": {
-            "text": "University of Saskatchewan\nUniversiti Tun Abdul Razak\nUniversiti Utara Malaysia",
+            "text": "University of Saskatchewan (BComm)\nUniversiti Tun Abdul Razak (MBA)\nUniversiti Utara Malaysia (PhD)\nAsia e University (DBA)",
             "links": [
               {
                 "type": "internal",
                 "page": "University of Saskatchewan"
               },
               {
+                "text": "BComm",
+                "type": "internal",
+                "page": "Bachelor of Commerce"
+              },
+              {
                 "type": "internal",
                 "page": "Universiti Tun Abdul Razak"
               },
               {
+                "text": "MBA",
+                "type": "internal",
+                "page": "Master of Business Administration"
+              },
+              {
                 "type": "internal",
                 "page": "Universiti Utara Malaysia"
+              },
+              {
+                "text": "PhD",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              },
+              {
+                "type": "internal",
+                "page": "Asia e University"
+              },
+              {
+                "text": "DBA",
+                "type": "internal",
+                "page": "Doctor of Business Administration"
               }
             ]
           }
@@ -586,12 +610,15 @@
               "text": "She completed her viva on 11 November 2021 and received positive feedback on her dissertation from examiners who requested no further amendments/corrections upon submission."
             },
             {
-              "text": "They stated it was well written and the methodology was sound, which is a testament to her vast knowledge on women's entrepreneurship in Malaysia."
-            },
-            {
               "text": "She completed her second PhD in April 2022."
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "date": "July 2022",
+          "template": "citation needed"
         }
       ]
     },

@@ -30,18 +30,18 @@
         {
           "sentences": [
             {
-              "text": "Tan Sri Datuk Patinggi Abang Haji Abdul Rahman Zohari bin Tun Abang Haji Openg (Jawi: ابڠ عبد الرحمن جوهري بن ابڠ اوڤيڠ; born 4 August 1950), familiarly known as Abang Jo or Abang Johari, is a Malaysian politician who has served as the first Premier of Sarawak since March 2022 and Member of the Sarawak State Legislative Assembly (MLA) for Gedong since December 2021.",
+              "text": "Datuk Patinggi Tan Sri Abang Haji Abdul Rahman Zohari bin Tun Abang Haji Openg (Jawi: ابڠ عبد الرحمن جوهري بن ابڠ اوڤيڠ; born 4 August 1950), familiarly known as Abang Jo or Abang Johari, is a Malaysian politician who has served as the first Premier of Sarawak since March 2022 and Member of the Sarawak State Legislative Assembly (MLA) for Gedong since December 2021.",
               "links": [
-                {
-                  "text": "Tan Sri",
-                  "type": "internal",
-                  "page": "Order of the Defender of the Realm"
-                },
                 {
                   "text": "Datuk Patinggi",
                   "type": "internal",
                   "page": "Order of the Star of Hornbill Sarawak",
                   "anchor": "Datuk Patinggi Bintang Kenyalang (D.P.)"
+                },
+                {
+                  "text": "Tan Sri",
+                  "type": "internal",
+                  "page": "Order of the Defender of the Realm"
                 },
                 {
                   "type": "internal",
@@ -51,16 +51,6 @@
                   "text": "Jawi",
                   "type": "internal",
                   "page": "Jawi alphabet"
-                },
-                {
-                  "text": "Malaysian",
-                  "type": "internal",
-                  "page": "Malaysian people"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
                 },
                 {
                   "type": "internal",
@@ -149,11 +139,11 @@
           "template": "short description"
         },
         {
-          "date": "July 2014",
+          "date": "July 2022",
           "template": "engvarb"
         },
         {
-          "date": "October 2020",
+          "date": "July 2022",
           "template": "use dmy dates"
         },
         {
@@ -170,13 +160,6 @@
             "ابڠ عبدالرحمن جوهري ابڠ اوڤيڠ"
           ],
           "template": "script"
-        },
-        {
-          "1": "Douglas Uggah Embas",
-          "2": "Awang Tengah Ali Hasan",
-          "3": "Sim Kui Hian",
-          "title": "See list",
-          "template": "list collapsed"
         },
         {
           "1": "Douglas Uggah Embas",
@@ -202,8 +185,8 @@
         },
         {
           "list": [
-            "Barisan Nasional (BN) (1977–2018)",
-            "Gabungan Parti Sarawak (GPS) (since 2018)"
+            "Barisan Nasional (1977–2018)",
+            "Gabungan Parti Sarawak (since 2018)"
           ],
           "template": "unbulleted list"
         },
@@ -216,7 +199,7 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Yang Amat Berhormat Tan Sri Datuk Patinggi",
+            "text": "Yang Amat Berhormat Datuk Patinggi Tan Sri",
             "links": [
               {
                 "text": "Yang Amat Berhormat",
@@ -225,15 +208,15 @@
                 "anchor": "Honorary styles"
               },
               {
-                "text": "Tan Sri",
-                "type": "internal",
-                "page": "Order of the Defender of the Realm"
-              },
-              {
                 "text": "Datuk Patinggi",
                 "type": "internal",
                 "page": "Order of the Star of Hornbill Sarawak",
                 "anchor": "Datuk Patinggi Bintang Kenyalang (D.P.)"
+              },
+              {
+                "text": "Tan Sri",
+                "type": "internal",
+                "page": "Order of the Defender of the Realm"
               }
             ]
           },
@@ -250,7 +233,12 @@
                 "anchor": "Commander"
               },
               {
-                "text": "DP DA",
+                "text": "DP",
+                "type": "internal",
+                "page": "Order of the Star of Hornbill Sarawak"
+              },
+              {
+                "text": "DA",
                 "type": "internal",
                 "page": "Order of the Star of Hornbill Sarawak"
               },
@@ -302,6 +290,23 @@
           },
           "term_start": {
             "text": "1 March 2022"
+          },
+          "deputy": {
+            "text": "Douglas Uggah Embas Awang Tengah Ali Hasan Sim Kui Hian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Douglas Uggah Embas"
+              },
+              {
+                "type": "internal",
+                "page": "Awang Tengah Ali Hasan"
+              },
+              {
+                "type": "internal",
+                "page": "Sim Kui Hian"
+              }
+            ]
           },
           "predecessor": {
             "text": "Office established",
@@ -620,21 +625,28 @@
               {
                 "type": "internal",
                 "page": "Crown Colony of Sarawak"
+              },
+              {
+                "type": "internal",
+                "page": "Sarawak"
+              },
+              {
+                "type": "internal",
+                "page": "Malaysia"
               }
             ]
           },
           "party": {
-            "text": "Parti Pesaka Bumiputera Bersatu (PBB) (since 1977)",
+            "text": "Parti Pesaka Bumiputera Bersatu (since 1977)",
             "links": [
               {
-                "text": "Parti Pesaka Bumiputera Bersatu (PBB)",
                 "type": "internal",
                 "page": "Parti Pesaka Bumiputera Bersatu"
               }
             ]
           },
           "otherparty": {
-            "text": "Barisan Nasional (BN) (1977–2018)\n\nGabungan Parti Sarawak (GPS) (since 2018)"
+            "text": "Barisan Nasional (1977–2018)\n\nGabungan Parti Sarawak (since 2018)"
           },
           "spouse": {
             "text": "Juma'ani Tuanku Bujang (m. 1977)"
@@ -689,7 +701,7 @@
             ]
           },
           "website": {
-            "text": "http://cm.sarawak.gov.my/"
+            "text": "http://premier.sarawak.gov.my/"
           }
         }
       ],
@@ -1070,16 +1082,12 @@
     },
     {
       "title": "Ministerial career (1984–2017)",
-      "depth": 0
-    },
-    {
-      "title": "Assistant Minister for Regional Development and Community Development (1984–1987)",
-      "depth": 1,
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Abang Johari was re-elected in 1983 state election, and was appointed as the Assistant Minister for Regional Development and Community Development.",
+              "text": "Abang Johari was re-elected in 1983 state election, and was appointed as the Assistant Minister for Regional Development and Community Development a year later.",
               "links": [
                 {
                   "text": "1983 state election",
@@ -1089,22 +1097,21 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Minister of Industrial Development (1987–2000)",
-      "depth": 1,
-      "paragraphs": [
+        },
         {
           "sentences": [
             {
-              "text": "After the 1987 state election, in which he retained his constituency seat, Abang Johari was promoted as full minister, and was admitted to the state cabinet under Chief Minister Abdul Taib Mahmud.",
+              "text": "After the 1987 state election, in which he retained his Satok seat, Abang Johari was promoted as full minister, and was admitted to the state cabinet under Chief Minister Abdul Taib Mahmud.",
               "links": [
                 {
                   "text": "1987 state election",
                   "type": "internal",
                   "page": "1987 Sarawak state election"
+                },
+                {
+                  "text": "Satok",
+                  "type": "internal",
+                  "page": "Satok (state constituency)"
                 },
                 {
                   "text": "state cabinet",
@@ -1126,27 +1133,7 @@
               "text": "He was appointed as the Minister of Industrial Development."
             }
           ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.utusanborneo.com.my/2017/04/23/hanya-mahu-berkhidmat",
-          "title": "Hanya mahu berkhidmat",
-          "trans-title": "Just want to serve",
-          "language": "ms",
-          "date": "23 April 2017",
-          "accessdate": "5 November 2021",
-          "author": "Saibi Gi",
-          "publisher": "Utusan Borneo",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "Minister of Tourism (2000–2004)",
-      "depth": 1,
-      "paragraphs": [
+        },
         {
           "sentences": [
             {
@@ -1166,13 +1153,7 @@
               "text": "He held the ministerial post until 2004."
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Minister of Housing (2004–2009)",
-      "depth": 1,
-      "paragraphs": [
+        },
         {
           "sentences": [
             {
@@ -1189,13 +1170,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Minister of Housing and Urbanisation (2009–2011)",
-      "depth": 1,
-      "paragraphs": [
+        },
         {
           "sentences": [
             {
@@ -1205,13 +1180,7 @@
               "text": "He served until 2011."
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Minister of Tourism (2011–2016)",
-      "depth": 1,
-      "paragraphs": [
+        },
         {
           "sentences": [
             {
@@ -1226,11 +1195,25 @@
             }
           ]
         }
+      ],
+      "references": [
+        {
+          "url": "https://www.utusanborneo.com.my/2017/04/23/hanya-mahu-berkhidmat",
+          "title": "Hanya mahu berkhidmat",
+          "trans-title": "Just want to serve",
+          "language": "ms",
+          "date": "23 April 2017",
+          "accessdate": "5 November 2021",
+          "author": "Saibi Gi",
+          "publisher": "Utusan Borneo",
+          "template": "citation",
+          "type": "news"
+        }
       ]
     },
     {
       "title": "Abdul Taib's resignation",
-      "depth": 2,
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
@@ -1318,7 +1301,7 @@
     },
     {
       "title": "Deputy Chief Minister (2016–2017)",
-      "depth": 1,
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -1393,7 +1376,7 @@
     },
     {
       "title": "Adenan's death",
-      "depth": 2,
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
@@ -1503,11 +1486,7 @@
     },
     {
       "title": "Chief Minister (2017–2022)",
-      "depth": 0
-    },
-    {
-      "title": "Appointment",
-      "depth": 1,
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -1685,94 +1664,6 @@
           "language": "ms",
           "publisher": "The Borneo Post",
           "author": "Chin",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "Domestic affairs",
-      "depth": 1
-    },
-    {
-      "title": "English language",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Abang Johari stated a few weeks after taking the office that he wished to maintain Adenan's policy of making English the second official language in Sarawak.",
-              "links": [
-                {
-                  "text": "English",
-                  "type": "internal",
-                  "page": "English language"
-                }
-              ]
-            },
-            {
-              "text": "He wished for every Sarawakian to be able to master English in order for them to emerge as global players, saying that it's an \"important and strategic language\" for the people."
-            },
-            {
-              "text": "In 2020, the state government has founded several international secondary schools of its own in order to build a society that is highly competitive and has a good command of English."
-            },
-            {
-              "text": "The first international secondary school is expected to be completed in December 2022 with the first enrollment scheduled for early 2023."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Since 2020, the Sarawak government has used English to teach and learn science and mathematics subjects in 1,048 primary schools."
-            },
-            {
-              "text": "The state government has invested more than RM18 million to assist the adoption of science and mathematics teaching in English, hoping that \"all our children would be able to read, write and communicate in English in formal and informal situations\"."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.astroawani.com/berita-malaysia/saya-akan-teruskan-dasar-bahasa-inggeris-adenan-abang-johari-129840",
-          "title": "Saya akan teruskan dasar bahasa Inggeris Adenan - Abang Johari",
-          "trans-title": "I will continue Adenan's English policy - Abang Johari",
-          "date": "22 January 2017",
-          "accessdate": "9 January 2022",
-          "language": "ms",
-          "publisher": "Astro Awani",
-          "work": "Bernama",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.utusanborneo.com.my/2018/08/27/kuasai-bahasa-inggeris-untuk-jadi-pemain-global-abang-johari",
-          "title": "Kuasai bahasa Inggeris untuk jadi pemain global",
-          "date": "27 August 2018",
-          "accessdate": "14 January 2022",
-          "language": "ms",
-          "publisher": "Utusan Borneo",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.freemalaysiatoday.com/category/bahasa/2020/09/22/sarawak-bina-sekolah-antarabangsa-lahir-pelajar-kompetitif-mahir-bahasa-inggeris",
-          "title": "Sarawak bina sekolah antarabangsa lahir pelajar kompetitif, mahir bahasa Inggeris",
-          "date": "22 September 2020",
-          "accessdate": "14 January 2022",
-          "language": "ms",
-          "publisher": "Free Malaysia Today",
-          "author": "Goh Pei Pei",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.malaymail.com/news/malaysia/2021/12/03/sarawak-govt-spent-rm18m-to-improve-english-proficiency-among-primary-schoo/2025646",
-          "title": "Sarawak govt spent RM18m to improve English proficiency among primary school students, says local minister",
-          "date": "3 December 2021",
-          "accessdate": "15 January 2022",
-          "publisher": "Malay Mail",
-          "work": "The Borneo Post",
           "template": "citation",
           "type": "news"
         }

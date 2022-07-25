@@ -1,10 +1,11 @@
 {
-  "honorific-prefix": "Yang Amat Berhormat Tan Sri Datuk Patinggi",
+  "honorific-prefix": "Yang Amat Berhormat Datuk Patinggi Tan Sri",
   "name": "Abang Abdul Rahman Zohari Abang Openg",
   "honorific-suffix": "PMN DP DA PNBS PPB JBS MLA",
   "office": "1st Premier of Sarawak",
   "governor": "Abdul Taib Mahmud",
   "term_start": "1 March 2022",
+  "deputy": "Douglas Uggah Embas Awang Tengah Ali Hasan Sim Kui Hian",
   "predecessor": "Office established",
   "constituency": "Gedong",
   "office1": "6th Chief Minister of Sarawak",
@@ -57,8 +58,8 @@
   "birth_name": "Abang Abdul Rahman Zohari bin Abang Openg",
   "birth_date": "August 4, 1950",
   "birth_place": "Limbang, Crown Colony of Sarawak (now Sarawak, Malaysia)",
-  "party": "Parti Pesaka Bumiputera Bersatu (PBB) (since 1977)",
-  "otherparty": "Barisan Nasional (BN) (1977–2018)\n\nGabungan Parti Sarawak (GPS) (since 2018)",
+  "party": "Parti Pesaka Bumiputera Bersatu (since 1977)",
+  "otherparty": "Barisan Nasional (1977–2018)\n\nGabungan Parti Sarawak (since 2018)",
   "spouse": "Juma'ani Tuanku Bujang (m. 1977)",
   "children": "2",
   "father": "Abang Openg Abang Sapiee",
@@ -66,5 +67,5 @@
   "relations": "Tuanku Bujang Tuanku Othman (father-in-law)",
   "occupation": "Politician",
   "alma_mater": "Henley College, Brunel University (MBA)",
-  "website": "http://cm.sarawak.gov.my/"
+  "website": "http://premier.sarawak.gov.my/"
 }

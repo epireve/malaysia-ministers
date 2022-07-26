@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief of Air Force (Malaysia)"
+    },
+    "P1545": "18",
+    "P580": "2016-12-21",
+    "P1365": {
+      "links": [
+        "Roslan Saad"
+      ],
+      "stated_as": "Roslan Saad"
+    },
+    "P582": "2020-01-02",
+    "P1366": {
+      "links": [
+        "Ackbal Abdul Samad"
+      ],
+      "stated_as": "Ackbal Abdul Samad"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief of Defence Forces (Malaysia)"
+    },
+    "P1545": "21",
+    "P580": "2020-01-02",
+    "P1365": {
+      "links": [
+        "Zulkifli Zainal Abidin"
+      ],
+      "stated_as": "Zulkifli Zainal Abidin"
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Kapit (federal constituency)"
+      ],
+      "stated_as": "Kapit"
+    },
+    "P580": "1999-11-29",
+    "P1365": {
+      "links": [
+        "Parti Pesaka Bumiputera Bersatu",
+        "Barisan Nasional"
+      ],
+      "stated_as": "James Jimbun Pungga \n(PBB–BN)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Rural and Regional Development (Malaysia)"
+      ],
+      "stated_as": "Deputy Minister of Rural and Regional Development"
+    },
+    "P580": "2013-05-16",
+    "P1365": {
+      "links": [
+        "Hasan Malek"
+      ],
+      "stated_as": "Hasan Malek"
+    },
+    "P582": "2018-05-09",
+    "P1366": {
+      "links": [
+        "Sivarasa Rasiah"
+      ],
+      "stated_as": "Sivarasa Rasiah"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Domestic Trade and Consumer Affairs (Malaysia)"
+      ],
+      "stated_as": "Minister of Domestic Trade and Consumer Affairs"
+    },
+    "P580": "2020-03-10",
+    "P1365": {
+      "links": [
+        "Saifuddin Nasution Ismail"
+      ],
+      "stated_as": "Saifuddin Nasution Ismail"
+    },
+    "P582": "2021-08-16"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Domestic Trade and Consumer Affairs (Malaysia)"
+      ],
+      "stated_as": "Minister of Domestic Trade and Consumer Affairs"
+    },
+    "P580": "2021-08-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Himself"
+    }
+  }
+]

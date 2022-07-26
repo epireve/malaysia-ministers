@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Finance (Malaysia)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2020-03-10",
+    "P1365": {
+      "links": [
+        "Lim Guan Eng"
+      ],
+      "stated_as": "Lim Guan Eng"
+    },
+    "P582": "2021-08-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "himself"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Dewan Negara"
+      ],
+      "stated_as": "Senator"
+    },
+    "P580": "2020-03-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Malaysian movement control order"
+      ],
+      "stated_as": "Coordinating Minister of the National Recovery Plan"
+    },
+    "P580": "2021-07-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2021-08-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance (Malaysia)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2021-08-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "himself"
+    }
+  }
+]

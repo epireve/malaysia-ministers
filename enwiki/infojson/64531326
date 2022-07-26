@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Election Commission of Malaysia"
+      ],
+      "stated_as": "9th Chairman of the Election Commission"
+    },
+    "P580": "2018-09-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mohd Hashim Abdullah"
+    },
+    "P582": "2020-06-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Abdul Ghani Salleh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Dewan Rakyat"
+      ],
+      "stated_as": "10th Speaker of the Dewan Rakyat"
+    },
+    "P580": "2020-07-13",
+    "P1365": {
+      "links": [
+        "Mohamad Ariff Md Yusof"
+      ],
+      "stated_as": "Mohamad Ariff Md Yusof"
+    }
+  }
+]

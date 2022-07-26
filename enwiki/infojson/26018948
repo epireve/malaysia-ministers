@@ -1,0 +1,153 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "1986-08-03",
+    "P1365": {
+      "links": [
+        "Abdul Hamid Pawanteh"
+      ],
+      "stated_as": "Abdul Hamid Pawanteh (BN–UMNO)"
+    },
+    "P582": "1995-04-24",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Kamarudin Ahmad\n(BN–UMNO)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "1995-04-24",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    },
+    "P582": "2013-05-05",
+    "P1366": {
+      "links": [
+        "Ismail Kassim"
+      ],
+      "stated_as": "Ismail Kassim (BN–UMNO)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Menteri Besar of Perlis"
+    },
+    "P1545": "7",
+    "P580": "1995-05-06",
+    "P1365": {
+      "links": [
+        "Abdul Hamid Pawanteh"
+      ],
+      "stated_as": "Abdul Hamid Pawanteh"
+    },
+    "P582": "2008-03-17",
+    "P1366": {
+      "links": [
+        "Md Isa Sabu"
+      ],
+      "stated_as": "Md Isa Sabu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Arau (federal constituency)"
+      ],
+      "stated_as": "Arau"
+    },
+    "P580": "2013-05-05",
+    "P1365": {
+      "links": [
+        "Ismail Kassim",
+        "Barisan Nasional",
+        "United Malays National Organisation"
+      ],
+      "stated_as": "Ismail Kassim\n(BN-UMNO)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister in the Prime Minister's Department"
+      ],
+      "stated_as": "Minister in the Prime Minister's Department"
+    },
+    "P580": "2013-05-16",
+    "P1365": {
+      "links": [
+        "Mohamed Nazri Abdul Aziz"
+      ],
+      "stated_as": "Mohamed Nazri Abdul Aziz"
+    },
+    "P582": "2018-05-09",
+    "P1366": {
+      "links": [
+        "Mohd Redzuan Md Yusof"
+      ],
+      "stated_as": "Mohd Redzuan Md Yusof"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chairman of the\nNational Housing Corporation"
+    },
+    "P580": "2021-03-09"
+  },
+  {
+    "office": {
+      "links": [
+        "1Malaysia People's Housing Programme"
+      ],
+      "stated_as": "Chairman of the\nPerbadanan Perumahan Rakyat 1Malaysia"
+    },
+    "P580": "2021-03-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Eddy Chen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Federal Territories (Malaysia)"
+      ],
+      "stated_as": "Minister of Federal Territories"
+    },
+    "P580": "2021-08-30",
+    "P1365": {
+      "links": [
+        "Annuar Musa"
+      ],
+      "stated_as": "Annuar Musa"
+    }
+  }
+]

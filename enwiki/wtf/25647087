@@ -170,23 +170,11 @@
           "template": "birth date and age"
         },
         {
-          "date": "April 2022",
-          "template": "fact"
-        },
-        {
-          "date": "April 2022",
-          "template": "fact"
-        },
-        {
           "spouse": "Noraini Abdul Rashid",
           "from": "1981",
           "to": "1996",
           "end": "divorced",
           "template": "marriage"
-        },
-        {
-          "date": "April 2022",
-          "template": "fact"
         }
       ],
       "infoboxes": [
@@ -520,6 +508,18 @@
           "access-date": "28 August 2021",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "April 2022",
+          "template": "citation needed"
+        },
+        {
+          "date": "April 2022",
+          "template": "citation needed"
+        },
+        {
+          "date": "April 2022",
+          "template": "citation needed"
         }
       ]
     },
@@ -563,12 +563,6 @@
           ]
         }
       ],
-      "templates": [
-        {
-          "date": "April 2022",
-          "template": "fact"
-        }
-      ],
       "references": [
         {
           "url": "http://aksimuda.com.my/hamzah-zainudin-daripada-samseng-di-sekolah-kepada-samseng-di-pentas-politik/",
@@ -579,22 +573,16 @@
           "type": "web"
         },
         {
-          "url": "https://www.therakyatpost.com/2021/06/16/from-property-to-politics-who-is-hamzah-zainudin/",
-          "title": "From Property To Politics: Who Is Hamzah Zainudin? Malaysia's Home Minister was a business man before turning to politics",
-          "author": "Maya Suraya",
-          "date": "16 June 2021",
-          "website": "The Rakyat Post",
-          "access-date": "28 August 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://news.utm.my/ms/2020/03/enam-alumni-utm-dilantik-terajui-negara/",
           "title": "Enam Alumni UTM Dilantik Terajui Negara",
           "work": "UTM News",
           "accessdate": "24 March 2022",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "April 2022",
+          "template": "citation needed"
         }
       ]
     },
@@ -644,16 +632,6 @@
           "archive-url": "https://web.archive.org/web/20110604050621/http://thestar.com.my/news/story.asp?file=%2F2003%2F4%2F19%2Fnation%2Fllfelcra&sec=nation",
           "archive-date": "4 June 2011",
           "df": "dmy-all",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.therakyatpost.com/2021/06/16/from-property-to-politics-who-is-hamzah-zainudin/",
-          "title": "From Property To Politics: Who Is Hamzah Zainudin? Malaysia's Home Minister was a business man before turning to politics",
-          "author": "Maya Suraya",
-          "date": "16 June 2021",
-          "website": "The Rakyat Post",
-          "access-date": "28 August 2021",
           "template": "citation",
           "type": "news"
         }
@@ -930,16 +908,6 @@
       ],
       "references": [
         {
-          "url": "https://www.therakyatpost.com/2021/06/16/from-property-to-politics-who-is-hamzah-zainudin/",
-          "title": "From Property To Politics: Who Is Hamzah Zainudin? Malaysia's Home Minister was a business man before turning to politics",
-          "author": "Maya Suraya",
-          "date": "16 June 2021",
-          "website": "The Rakyat Post",
-          "access-date": "28 August 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://cilisos.my/who-is-hamzah-zainudin-the-man-accused-of-giving-muhyiddin-bad-advice/",
           "title": "WHO IS HAMZAH ZAINUDIN, THE MAN ACCUSED OF GIVING MUHYIDDIN BAD ADVICE?",
           "work": "Cilisos",
@@ -962,26 +930,6 @@
               "text": "Hamzah allegedly made the remark when campaigning during the Permatang Pauh by-election in August 2008, which subsequently saw Anwar’s return to parliament after a 10-year absence."
             }
           ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.therakyatpost.com/2021/06/16/from-property-to-politics-who-is-hamzah-zainudin/",
-          "title": "From Property To Politics: Who Is Hamzah Zainudin? Malaysia's Home Minister was a business man before turning to politics",
-          "author": "Maya Suraya",
-          "date": "16 June 2021",
-          "website": "The Rakyat Post",
-          "access-date": "28 August 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://cilisos.my/who-is-hamzah-zainudin-the-man-accused-of-giving-muhyiddin-bad-advice/",
-          "title": "WHO IS HAMZAH ZAINUDIN, THE MAN ACCUSED OF GIVING MUHYIDDIN BAD ADVICE?",
-          "work": "Cilisos",
-          "accessdate": "24 March 2022",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
@@ -1077,18 +1025,6 @@
               "text": "He was blessed with 5 children."
             }
           ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.therakyatpost.com/2021/06/16/from-property-to-politics-who-is-hamzah-zainudin/",
-          "title": "From Property To Politics: Who Is Hamzah Zainudin? Malaysia's Home Minister was a business man before turning to politics",
-          "author": "Maya Suraya",
-          "date": "16 June 2021",
-          "website": "The Rakyat Post",
-          "access-date": "28 August 2021",
-          "template": "citation",
-          "type": "news"
         }
       ]
     },

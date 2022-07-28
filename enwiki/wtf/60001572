@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Datuk Dr. '''Mohd.",
+              "text": "Datuk Dr. Mohd Radzi bin Md Jidin (Jawi: محمد رضي بن مد جيدين; born 4 September 1977) is a Malaysian politician and forensic accountant who has served as Senior Minister of the Education and Social Cluster and as Minister of Education since August 2021.",
               "links": [
                 {
                   "text": "Datuk",
@@ -35,24 +35,14 @@
                   "text": "Dr.",
                   "type": "internal",
                   "page": "Doctor of Philosophy"
-                }
-              ]
-            },
-            {
-              "text": "Radzi bin Md. Jidin''' (Jawi: محمد رضي بن مد جيدين; born 4 September 1977) is a Malaysian politician who has served as the Senior Minister in charge of Education and Minister of Education for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021 and Senator since July 2018.",
-              "links": [
+                },
                 {
                   "text": "Jawi",
                   "type": "internal",
                   "page": "Jawi alphabet"
                 },
                 {
-                  "text": "Malaysian",
-                  "type": "internal",
-                  "page": "Malaysian people"
-                },
-                {
-                  "text": "Senior Minister",
+                  "text": "Senior Minister of the Education and Social Cluster",
                   "type": "internal",
                   "page": "Senior Minister of Malaysia"
                 },
@@ -60,23 +50,20 @@
                   "text": "Minister of Education",
                   "type": "internal",
                   "page": "Minister of Education (Malaysia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Barisan Nasional"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ismail Sabri Yaakob"
-                },
-                {
-                  "type": "internal",
-                  "page": "Senator"
                 }
-              ]
-            },
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohd Radzi bin Md Jidin"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "He served his first term in Perikatan Nasional (PN) administration under former Prime Minister Muhyiddin Yassin from March 2020 to August 2021.",
+              "text": "Radzi served his first term in Perikatan Nasional (PN) administration under former Prime Minister Muhyiddin Yassin from March 2020 to August 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -167,7 +154,7 @@
             ]
           },
           "name": {
-            "text": "Mohd. Radzi Md. Jidin"
+            "text": "Mohd Radzi Md Jidin"
           },
           "honorific_suffix": {
             "text": "PMW",

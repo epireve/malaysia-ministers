@@ -508,7 +508,7 @@
             ]
           },
           "party": {
-            "text": "UMNO (1987-1998) PKR (1998-2020) BERSATU (since 2020)",
+            "text": "UMNO (1987–1998) PKR (1998–2020) BERSATU (since 2020)",
             "links": [
               {
                 "text": "UMNO",
@@ -528,7 +528,7 @@
             ]
           },
           "otherparty": {
-            "text": "Barisan Nasional (1987-1998) Barisan Alternatif (1998-2004) Pakatan Rakyat (2008-2015) Pakatan Harapan (2015-2020) Perikatan Nasional (since 2020)",
+            "text": "Barisan Nasional (1987–1998) Barisan Alternatif (1998–2004) Pakatan Rakyat (2008–2015) Pakatan Harapan (2015–2020) Perikatan Nasional (since 2020)",
             "links": [
               {
                 "type": "internal",

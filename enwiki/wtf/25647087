@@ -543,12 +543,28 @@
               ]
             },
             {
-              "text": "He went to Sekolah Tuanku Abdul Rahman He received his Diploma in Quantity Surveying from University of Technology Malaysia in 1975.",
+              "text": "He went to Sekolah Tuanku Abdul Rahman while became a gangster student (pelajar samseng) and bullied other students there.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Sekolah Tuanku Abdul Rahman"
                 },
+                {
+                  "text": "gangster student",
+                  "type": "internal",
+                  "page": "Gang",
+                  "anchor": "Gang violence in schools"
+                },
+                {
+                  "text": "bullied",
+                  "type": "internal",
+                  "page": "Bullying"
+                }
+              ]
+            },
+            {
+              "text": "He received his Diploma in Quantity Surveying from University of Technology Malaysia in 1975.",
+              "links": [
                 {
                   "text": "Quantity Surveying",
                   "type": "internal",

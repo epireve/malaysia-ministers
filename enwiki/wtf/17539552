@@ -497,14 +497,7 @@
             ]
           },
           "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
+            "text": "Independent"
           },
           "occupation": {
             "text": "Politician, investor"

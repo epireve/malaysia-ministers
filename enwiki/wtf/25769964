@@ -1173,7 +1173,7 @@
               ]
             },
             {
-              "text": "Subsequently on 26 May 2022, she finally announced that she had decided to leave BERSATU for PBM and her pending resignation as Minister of Plantation Industries and Commodities."
+              "text": "Subsequently, on 26 May 2022, she finally announced that she had decided to leave BERSATU for PBM and her pending resignation as Minister of Plantation Industries and Commodities."
             },
             {
               "text": "Following this, she also noted that discussions with the Prime Minister Ismail Sabri Yaakob would be held as soon as possible on the issue of her pending resignation.",
@@ -1665,7 +1665,7 @@
         {
           "sentences": [
             {
-              "text": "In 5 January 2022, Zuraida's spirited defence of palm oil in Malaysia, including her assertion that they were not harming the orangutan population and the primates were more likely to kill humans than the other way round, has gained social media attention."
+              "text": "On 5 January 2022, Zuraida's spirited defence of palm oil in Malaysia, including her assertion that they were not harming the orangutan population and the primates were more likely to kill humans than the other way round, has gained social media attention."
             }
           ]
         },
@@ -2206,6 +2206,9 @@
       "title": "References",
       "depth": 0,
       "templates": [
+        {
+          "template": "reflist"
+        },
         {
           "template": "selangor-fedrep"
         },

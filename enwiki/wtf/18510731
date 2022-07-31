@@ -239,12 +239,17 @@
             "text": "魏家祥"
           },
           "honorific-suffix": {
-            "text": "DGSM DMSM MP",
+            "text": "DGSM DMSM FICE MP",
             "links": [
               {
                 "text": "DGSM DMSM",
                 "type": "internal",
                 "page": "List of post-nominal letters (Malacca)"
+              },
+              {
+                "text": "FICE",
+                "type": "internal",
+                "page": "Institution of Civil Engineers"
               },
               {
                 "text": "MP",

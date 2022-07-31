@@ -186,7 +186,7 @@
         {
           "list": [
             "Barisan Nasional (1977–2018)",
-            "Gabungan Parti Sarawak (since 2018)"
+            "Gabungan Parti Sarawak (2018–present)"
           ],
           "template": "unbulleted list"
         },
@@ -609,9 +609,6 @@
               }
             ]
           },
-          "birth_name": {
-            "text": "Abang Abdul Rahman Zohari bin Abang Openg"
-          },
           "birth_date": {
             "text": "August 4, 1950"
           },
@@ -646,7 +643,7 @@
             ]
           },
           "otherparty": {
-            "text": "Barisan Nasional (1977–2018)\n\nGabungan Parti Sarawak (since 2018)"
+            "text": "Barisan Nasional (1977–2018)\n\nGabungan Parti Sarawak (2018–present)"
           },
           "spouse": {
             "text": "Juma'ani Tuanku Bujang (m. 1977)"
@@ -5225,11 +5222,11 @@
             ]
           },
           {
-            "text": "Honorary Doctorate in Business and Management from University College of Technology Sarawak (2017)",
+            "text": "Honorary Doctorate in Business and Management from University of Technology Sarawak (2017)",
             "links": [
               {
                 "type": "internal",
-                "page": "University College of Technology Sarawak"
+                "page": "University of Technology Sarawak"
               }
             ]
           },

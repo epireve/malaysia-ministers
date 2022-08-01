@@ -497,7 +497,30 @@
             ]
           },
           "party": {
-            "text": "Independent"
+            "text": "United Malays National Organisation (UMNO) (1993-present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Malays National Organisation"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Barisan Nasional (BN) (1993-present)\nPerikatan Nasional (PN) (allied) (2020-present)\nMuafakat Nasional (MN) (2019-present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barisan Nasional"
+              },
+              {
+                "type": "internal",
+                "page": "Perikatan Nasional"
+              },
+              {
+                "type": "internal",
+                "page": "Muafakat Nasional"
+              }
+            ]
           },
           "occupation": {
             "text": "Politician, investor"
@@ -1053,7 +1076,7 @@
         {
           "sentences": [
             {
-              "text": "In June 2022, Tengu Zafrul announced the largest subsidies and cash aid package in Malaysian history (77.3 billion ringgit) for the year 2022, in order to temper the effect of inflation."
+              "text": "In June 2022, Tengku Zafrul announced the largest subsidies and cash aid package in Malaysian history (77.3 billion ringgit) for the year 2022, in order to temper the effect of inflation."
             }
           ]
         }

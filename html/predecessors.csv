@@ -22,10 +22,10 @@ Q6894002,member of the Perak State Legislative Assembly,Q98520101,Q108648724,201
 Q3536391,Minister of Natural Resources and Environment,Q30601398,Q7967007,2015-07-29,2018-05-09
 Q7461040,Minister of Rural and Regional Development,Q30601414,Q6084858,2015-07-29,2018-05-09
 Q4115067,member of the Kelantan State Legislative Assembly,Q107099540,Q25486318,2015-03-22,
-Q4665485,Menteri Besar of Selangor,Q6589950,Q73962,2014-09-23,2018-06-19
 Q253136,Minister of Transport,Q25242000,Q5772615,2013-05-16,2014-06-25
 Q6891417,Minister in the Prime Minister's Department,Q24949267,Q7461744,2013-05-16,2018-05-09
 Q7047541,Minister of Agriculture and Food Industries,Q30601423,Q6084858,2013-05-16,2015-07-29
+Q72958,member of the Selangor State Legislative Assembly,Q61914061,Q4665485,2013-05-06,2018-05-09
 Q12689551,member of the Sabah State Legislative Assembly,Q61914038,Q96048979,2013-05-05,2018-05-09
 Q4832223,Member of the Dewan Rakyat,Q21290861,Q20457974,2013-05-05,2018-05-09
 Q7906250,member of the Perak State Legislative Assembly,Q98520101,Q77399693,2013-05-05,
@@ -44,6 +44,9 @@ Q7047541,"Minister of Domestic Trade, Co-operatives and Consumerism",Q30601373,Q
 Q7462244,"Minister of Domestic Trade, Co-operatives and Consumerism",Q30601373,Q6084858,2009-04-10,2013-05-15
 Q7282661,Minister of International Trade and Industry,Q25240869,Q1060949,2008-03-19,2009-04-09
 Q4832158,Minister of Youth and Sports,Q30601401,Q6084858,2008-03-18,2009-04-09
+Q73127,Menteri Besar of Selangor,Q6589950,Q4665485,2008-03-13,2014-09-22
+Q6323786,member of the Selangor State Legislative Assembly,Q61914061,Q4665485,2008-03-08,2013-05-05
+Q7682024,Member of the Dewan Rakyat,Q21290861,Q4665485,2008-03-08,2018-05-09
 Q16193283,member of the Kedah State Legislative Assembly,Q107099508,Q4665340,2008,2013
 Q20449166,Member of the Dewan Rakyat,Q21290861,Q2495157,2008,
 Q20449166,Member of the Dewan Rakyat,Q21290861,Q2495157,2008,2013-04-03

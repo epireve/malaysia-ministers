@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Noh bin Omar (Jawi: نوح بن عمر; born 23 February 1958) is a Malaysian politician who has served as Minister of Entrepreneur Development and Cooperative for second capacity in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021 and Member of Parliament (MP) for Tanjong Karang.",
+              "text": "Noh bin Omar (Jawi: نوح بن عمر; born 23 February 1958) is a Malaysian politician who has served as Minister of Entrepreneur Development and Cooperative for second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021 and Member of Parliament (MP) for Tanjong Karang.",
               "links": [
                 {
                   "text": "Jawi",
@@ -72,7 +72,7 @@
               }
             },
             {
-              "text": "He served his first capacity in the BN administration under former Prime Minister Abdullah Ahmad Badawi from March 2008 to April 2009.",
+              "text": "He served his first term in the BN administration under former Prime Minister Abdullah Ahmad Badawi from March 2008 to April 2009.",
               "links": [
                 {
                   "type": "internal",
@@ -91,25 +91,6 @@
               ]
             },
             {
-              "text": "He has served as Minister of Entrepreneur Development and Cooperative in the BN administration under Prime Minister Ismail Sabri Yaakob cabinet since August 2021.",
-              "links": [
-                {
-                  "text": "Minister of Entrepreneur Development and Cooperative",
-                  "type": "internal",
-                  "page": "Minister of Entrepreneur Development and Cooperative (Malaysia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ismail Sabri Yaakob"
-                },
-                {
-                  "text": "cabinet",
-                  "type": "internal",
-                  "page": "Ismail Sabri cabinet"
-                }
-              ]
-            },
-            {
               "text": "He is a member of the United Malays National Organisation (UMNO), a component party of the Barisan Nasional (BN) coalition.",
               "links": [
                 {
@@ -119,6 +100,15 @@
                 {
                   "type": "internal",
                   "page": "Barisan Nasional"
+                }
+              ]
+            },
+            {
+              "text": "He is also the State Chairman of BN and UMNO of Selangor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Selangor"
                 }
               ]
             }

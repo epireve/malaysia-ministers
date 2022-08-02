@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Tengku Zafrul bin Tengku Abdul Aziz (born 25 June 1973) is a Malaysian banker and investor who has served as Minister of Finance since March 2020.",
+              "text": "Tengku Zafrul bin Tengku Abdul Aziz (born 25 June 1973) is a Malaysian banker, investor and politician who has served as Minister of Finance for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
               "links": [
                 {
                   "text": "Malaysian",
@@ -44,9 +44,22 @@
                   "page": "investor"
                 },
                 {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
                   "text": "Minister of Finance",
                   "type": "internal",
                   "page": "Ministry of Finance (Malaysia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Barisan Nasional"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ismail Sabri Yaakob"
                 }
               ],
               "formatting": {
@@ -56,20 +69,7 @@
               }
             },
             {
-              "text": "He is currently serving his second term of office, within the Barisan Nasional (BN) administration of Prime Minister Ismail Sabri Yaakob (since August 2021).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Barisan Nasional"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ismail Sabri Yaakob"
-                }
-              ]
-            },
-            {
-              "text": "He also previously served his first term (from March 2020 to August 2021) as well as Coordinating Minister of the National Recovery Plan (from July 2021 to August 2021) within the previous Perikatan Nasional (PN) administration of former Prime Minister Muhyiddin Yassin.",
+              "text": "He also previously served his first term from March 2020 to August 2021 as well as Coordinating Minister of the National Recovery Plan from July 2021 to August 2021 in the Perikatan Nasional (PN) administration under former Prime Minister Muhyiddin Yassin.",
               "links": [
                 {
                   "type": "internal",
@@ -82,7 +82,7 @@
               ]
             },
             {
-              "text": "As he was not an elected Member of Parliament, he was appointed as an independent Senator since March 2020, in order to assume his duties as a technocratic Minister of Finance.",
+              "text": "As he was not an elected Member of Parliament, he was appointed as an independent Senator in March 2020, in order to assume his duties as the first technocratic Minister of Finance as he is also the first independent individual in terms of active political party association, to be appointed Minister of Finance in the Malaysian history.",
               "links": [
                 {
                   "text": "Senator",
@@ -92,12 +92,19 @@
                 {
                   "text": "technocratic",
                   "type": "internal",
-                  "page": "Technocracy"
+                  "page": "technocracy"
+                },
+                {
+                  "text": "independent",
+                  "type": "internal",
+                  "page": "independent politician"
+                },
+                {
+                  "text": "Malaysian history",
+                  "type": "internal",
+                  "page": "history of Malaysia"
                 }
               ]
-            },
-            {
-              "text": "He is also the first independent Minister of Finance in Malaysian history, without any political party association."
             },
             {
               "text": "Prior to his political appointments, he was the Chief Executive Officer (CEO) and Executive Director of the CIMB Group Holdings Berhad.",
@@ -132,13 +139,39 @@
                   "page": "CIMB"
                 }
               ]
+            },
+            {
+              "text": "He is a member of the United Malays National Organisation (UMNO), a component party of the ruling Barisan Nasional (BN) coalition.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Malays National Organisation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Barisan Nasional"
+                }
+              ]
+            },
+            {
+              "text": "He has also served as the State Treasurer of BN of Selangor since July 2022, this appointment also marks his start of active involvement in politics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Treasurer"
+                },
+                {
+                  "type": "internal",
+                  "page": "Selangor"
+                }
+              ]
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "Minister of Finance of Malaysia",
+          "description": "Malaysian banker, investor and politician",
           "template": "short description"
         },
         {
@@ -467,6 +500,59 @@
               }
             ]
           },
+          "office4": {
+            "text": "State Treasurer of the Barisan Nasional of Selangor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Treasurer"
+              },
+              {
+                "type": "internal",
+                "page": "Barisan Nasional"
+              },
+              {
+                "type": "internal",
+                "page": "Selangor"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "31 July 2022"
+          },
+          "1blankname4": {
+            "text": "National Chairman"
+          },
+          "1namedata4": {
+            "text": "Ahmad Zahid Hamidi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmad Zahid Hamidi"
+              }
+            ]
+          },
+          "2blankname4": {
+            "text": "State Chairman"
+          },
+          "2namedata4": {
+            "text": "Noh Omar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Noh Omar"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Jamal Md Yunos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamal Md Yunos"
+              }
+            ]
+          },
           "birth_name": {
             "text": "Tengku Zafrul bin Tengku Abdul Aziz"
           },
@@ -497,7 +583,7 @@
             ]
           },
           "party": {
-            "text": "United Malays National Organisation (UMNO) (1993-present)",
+            "text": "United Malays National Organisation (UMNO) (1993–present)",
             "links": [
               {
                 "type": "internal",
@@ -506,7 +592,7 @@
             ]
           },
           "otherparty": {
-            "text": "Barisan Nasional (BN) (1993-present)\nPerikatan Nasional (PN) (allied) (2020-present)\nMuafakat Nasional (MN) (2019-present)",
+            "text": "Barisan Nasional (BN) (1993–present)\nPerikatan Nasional (PN) (allied) (2020–present)\nMuafakat Nasional (MN) (2019–present)",
             "links": [
               {
                 "type": "internal",
@@ -566,6 +652,15 @@
           "url": "https://www.cimb.com/en/who-we-are/leadership/board-of-directors/cimb-group.html#read",
           "website": "cimb.com",
           "accessdate": "23 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thestar.com.my/news/nation/2022/07/31/tengku-zafrul-now-selangor-bn-treasurer",
+          "title": "Tengku Zafrul now Selangor BN treasurer",
+          "website": "The Star",
+          "date": "31 July 2022",
+          "access-date": "1 August 2022",
           "template": "citation",
           "type": "web"
         },

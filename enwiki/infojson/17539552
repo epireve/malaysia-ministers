@@ -66,5 +66,22 @@
       ],
       "stated_as": "himself"
     }
+  },
+  {
+    "office": {
+      "links": [
+        "Treasurer",
+        "Barisan Nasional",
+        "Selangor"
+      ],
+      "stated_as": "State Treasurer of the Barisan Nasional of Selangor"
+    },
+    "P580": "2022-07-31",
+    "P1365": {
+      "links": [
+        "Jamal Md Yunos"
+      ],
+      "stated_as": "Jamal Md Yunos"
+    }
   }
 ]

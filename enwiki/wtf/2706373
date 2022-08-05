@@ -69,7 +69,7 @@
               }
             },
             {
-              "text": "A member of the United Malays National Organisation (UMNO), which is the component party of ruling coalition Barisan Nasional (BN), he has been Member of Parliament (MP) for Sembrong since March 2004.",
+              "text": "A member of the United Malays National Organisation (UMNO), which is the component party of Barisan Nasional (BN) coalition, he has been Member of Parliament (MP) for Sembrong since March 2004.",
               "links": [
                 {
                   "type": "internal",
@@ -224,6 +224,80 @@
                   "text": "Sembrong",
                   "type": "internal",
                   "page": "Sembrong (federal constituency)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the beginning of the political crisis that started in 2020, Hishammuddin returned to the cabinet as Minister of Foreign Affairs under Perikatan Nasional (PN) coalition led by Muhyiddin Yassin.",
+              "links": [
+                {
+                  "text": "political crisis",
+                  "type": "internal",
+                  "page": "2020-2022 Malaysian political crisis"
+                },
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Muhyiddin cabinet"
+                },
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Malaysia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Perikatan Nasional"
+                },
+                {
+                  "type": "internal",
+                  "page": "Muhyiddin Yassin"
+                }
+              ]
+            },
+            {
+              "text": "Amid the worsening political crisis in July 2021, Muhyiddin appointed Hishammuddin as Senior Minister of Security Cluster to replace Ismail Sabri Yaakob, who was appointed as Deputy Prime Minister.",
+              "links": [
+                {
+                  "text": "Senior Minister of Security Cluster",
+                  "type": "internal",
+                  "page": "Senior Minister of Malaysia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ismail Sabri Yaakob"
+                },
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Malaysia"
+                }
+              ]
+            },
+            {
+              "text": "He briefly served in the office until August 2021, after Muhyiddin announced his resignation."
+            },
+            {
+              "text": "Two weeks after that, Hishammuddin returned again to the cabinet under new Prime Minister Ismail Sabri, who re-appointed him as senior minister.",
+              "links": [
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Ismail Sabri cabinet"
+                }
+              ]
+            },
+            {
+              "text": "He was also appointed as the Minister of Defence, an office he had held previously from 2013 to 2018.",
+              "links": [
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Minister of Defence (Malaysia)"
                 }
               ]
             }
@@ -1179,7 +1253,7 @@
             ]
           },
           "relations": {
-            "text": "Jaafar Muhammad (great-grandfather)\nOnn Jaafar (grandfather)\nMohamed Noah Omar (grandfather)\nOnn Hafiz Ghazi (nephew)\nNajib Razak (cousin)",
+            "text": "Jaafar Muhammad (great-grandfather)\nOnn Jaafar (grandfather)\nMohamed Noah Omar (grandfather)\nOnn Hafiz Ghazi (nephew)\nAbdul Razak Hussein (uncle)\nNajib Razak (cousin)",
             "links": [
               {
                 "type": "internal",
@@ -1199,6 +1273,10 @@
               },
               {
                 "type": "internal",
+                "page": "Abdul Razak Hussein"
+              },
+              {
+                "type": "internal",
                 "page": "Najib Razak"
               }
             ]
@@ -1206,6 +1284,23 @@
         }
       ],
       "references": [
+        {
+          "url": "https://www.sinarharian.com.my/article/157978/BERITA/Nasional/Hishammuddin-kembali-jadi-Menteri-Pertahanan",
+          "title": "Hishammuddin kembali jadi Menteri Pertahanan",
+          "date": "27 August 2021",
+          "access-date": "4 August 2022",
+          "publisher": "Sinar Harian",
+          "work": "BERNAMA",
+          "language": "ms",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "title": "The men of the hour – Ismail Sabri and Hishammuddin",
           "url": "https://www.freemalaysiatoday.com/category/nation/2021/07/07/the-men-of-the-hour-ismail-sabri-and-hishammuddin/",
@@ -1386,15 +1481,15 @@
         {
           "sentences": [
             {
-              "text": "Before entering politics, Hishammuddin was a lawyer with a large Malaysian firm then known as Skrine & Co. (now known as Skrine) and later, a Kuala Lumpur firm then known as Lee Hishammuddin (now Lee Hishammuddin Allen & Gledhill)."
+              "text": "After completing his studies in UK, Hishammuddin returned to Malaysia and began his career as a lawyer."
+            },
+            {
+              "text": "He became a partner of Skrine & Co (present day Skrine), the largest law firm in Malaysia."
+            },
+            {
+              "text": "In 1993, he left the law firm to set up his own law firm with Thomas Mun Lung Lee, and the established law firm was known as Lee Hishammuddin (present day Lee Hishammuddin Allen & Gledhill)."
             }
           ]
-        }
-      ],
-      "references": [
-        {
-          "date": "August 2021",
-          "template": "citation needed"
         }
       ]
     },

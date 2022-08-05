@@ -346,7 +346,7 @@
             ]
           },
           "subterm7": {
-            "text": "2021–Incumbent"
+            "text": "2021–"
           },
           "suboffice7": {
             "text": "Minister of Entrepreneur Development and Cooperative",
@@ -377,7 +377,7 @@
             ]
           },
           "subterm9": {
-            "text": "1995–Now"
+            "text": "1995–"
           },
           "suboffice9": {
             "text": "Barisan Nasional",
@@ -468,7 +468,7 @@
       ]
     },
     {
-      "title": "Early life",
+      "title": "Early life, education and early career",
       "depth": 0,
       "paragraphs": [
         {
@@ -505,29 +505,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Noh is married to Prof. Dr. Aishah Salleh and the couple has one daughter; Nurul Syazwani."
-            },
-            {
-              "text": "Then in 2006 he married to Nooraisha Farizan and the couple have 2 sons; Muhammad Nur Isyraff and one daughter."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "title": "NOH OMAR, DATUK",
-          "work": "SAIEE DRISS",
-          "url": "http://biodatatokoh.blogspot.my/2008/03/noh-omar-datuk.html",
-          "publisher": "BIODATA TOKOH",
-          "language": "ms",
-          "date": "2 March 2008",
-          "access-date": "7 September 2017",
-          "template": "citation",
-          "type": "news"
         }
       ]
     },
@@ -983,6 +960,35 @@
           "work": "Malaysiakini",
           "publisher": "Malaysian Digest",
           "access-date": "22 September 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Noh is married to Prof. Dr. Aishah Salleh and the couple has one daughter; Nurul Syazwani."
+            },
+            {
+              "text": "Then in 2006 he married to Nooraisha Farizan and the couple have 2 sons; Muhammad Nur Isyraff and one daughter."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "NOH OMAR, DATUK",
+          "work": "SAIEE DRISS",
+          "url": "http://biodatatokoh.blogspot.my/2008/03/noh-omar-datuk.html",
+          "publisher": "BIODATA TOKOH",
+          "language": "ms",
+          "date": "2 March 2008",
+          "access-date": "7 September 2017",
           "template": "citation",
           "type": "news"
         }

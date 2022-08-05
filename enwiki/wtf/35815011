@@ -648,15 +648,25 @@
             ]
           },
           "alma_mater": {
-            "text": "Universiti Teknologi Malaysia \nUniversity College of London",
+            "text": "Universiti Teknologi Malaysia (BSc) \nUniversity College of London (MSc)",
             "links": [
               {
                 "type": "internal",
                 "page": "Universiti Teknologi Malaysia"
               },
               {
+                "text": "BSc",
+                "type": "internal",
+                "page": "Bachelor of Science"
+              },
+              {
                 "type": "internal",
                 "page": "University College of London"
+              },
+              {
+                "text": "MSc",
+                "type": "internal",
+                "page": "Master of Science"
               }
             ]
           },

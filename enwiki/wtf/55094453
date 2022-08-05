@@ -848,12 +848,23 @@
         {
           "sentences": [
             {
-              "text": "On 13 June 2022, he made a statement on Twitter about Malaysian football supporters due to the Malaysian football team losing against Bahrain in Bukit Jalil Stadium, causing a backlash from supporters.",
+              "text": "On 13 June 2022, he made a statement on Twitter about Malaysian football supporters due to the Malaysian football team losing against Bahrain in Bukit Jalil National Stadium, causing a backlash from supporters.",
               "links": [
                 {
                   "text": "Malaysian football team",
                   "type": "internal",
                   "page": "Malaysia national football team"
+                },
+                {
+                  "text": "losing",
+                  "type": "internal",
+                  "page": "2023 AFC Asian Cup qualification – Third Round",
+                  "anchor": "Group E"
+                },
+                {
+                  "text": "Bahrain",
+                  "type": "internal",
+                  "page": "Bahrain national football team"
                 }
               ]
             },

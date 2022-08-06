@@ -201,7 +201,7 @@
         {
           "list": [
             "Arab",
-            "محمد عزمين علي"
+            "عزمين علي"
           ],
           "template": "script"
         },
@@ -247,7 +247,7 @@
             ]
           },
           "name": {
-            "text": "Mohamed Azmin Ali"
+            "text": "Azmin Ali"
           },
           "honorific-suffix": {
             "text": "SPMS SSDK MP MLA",
@@ -447,7 +447,7 @@
             }
           },
           "birth_name": {
-            "text": "Mohamed Azmin bin Md. Ali"
+            "text": "Mohamed Azmin bin Ali"
           },
           "birth_date": {
             "text": "August 25, 1964"

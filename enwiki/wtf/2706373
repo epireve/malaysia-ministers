@@ -1471,42 +1471,69 @@
       ]
     },
     {
-      "title": "Career",
-      "depth": 0
-    },
-    {
       "title": "Early career",
-      "depth": 1,
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "After completing his studies in UK, Hishammuddin returned to Malaysia and began his career as a lawyer."
+              "text": "After completing his studies in UK, Hishammuddin returned to Malaysia in 1989."
+            },
+            {
+              "text": "He joined UMNO and began his career as a lawyer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "UMNO"
+                },
+                {
+                  "text": "lawyer",
+                  "type": "internal",
+                  "page": "lawyer"
+                }
+              ]
             },
             {
               "text": "He became a partner of Skrine & Co (present day Skrine), the largest law firm in Malaysia."
             },
             {
-              "text": "In 1993, he left the law firm to set up his own law firm with Thomas Mun Lung Lee, and the established law firm was known as Lee Hishammuddin (present day Lee Hishammuddin Allen & Gledhill)."
+              "text": "In 1993, he left Skrine & Co to set up his own law firm with Thomas Mun Lung Lee, and the established law firm was known as Lee Hishammuddin (present day Lee Hishammuddin Allen & Gledhill)."
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.astroawani.com/berita-malaysia/hisham-leaves-behind-unforgettable-legacy-38404",
+          "title": "Hisham leaves behind unforgettable legacy",
+          "date": "25 June 2014",
+          "accessdate": "6 August 2022",
+          "publisher": "Astro Awani",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theedgemarkets.com/article/newsbreak-partners-one-countrys-biggest-law-firms-bitter-feud",
+          "title": "Newsbreak: Partners in one of the country’s biggest law firms in bitter feud",
+          "date": "25 February 2020",
+          "accessdate": "6 August 2022",
+          "publisher": "The Edge Markets",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
     {
       "title": "Political career",
-      "depth": 1,
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Upon returning from the United Kingdom in 1989, Hishammuddin joined UMNO."
+              "text": "Hishammuddin rose through the ranks of UMNO's youth wing in the 1990s, becoming its national chief in 1998."
             },
             {
-              "text": "He rose through the ranks of UMNO's youth wing in the 1990s, becoming its national chief in 1998."
-            },
-            {
-              "text": "He assumed the position at a time when UMNO Youth had been torn apart by the sacking of the Deputy Prime Minister Anwar Ibrahim, who was popular among young UMNO members.",
+              "text": "He assumed the position at a time when UMNO Youth had been torn apart by the sacking of Deputy Prime Minister Anwar Ibrahim, who was popular among young UMNO members.",
               "links": [
                 {
                   "type": "internal",
@@ -1515,7 +1542,7 @@
               ]
             },
             {
-              "text": "Hishammuddin's predecessor, Ahmad Zahid Hamidi, had been an Anwar supporter.",
+              "text": "Hishammuddin's predecessor, Ahmad Zahid Hamidi, had been a core supporter of Anwar.",
               "links": [
                 {
                   "type": "internal",
@@ -1528,7 +1555,7 @@
         {
           "sentences": [
             {
-              "text": "Meanwhile, in 1995, he had been elected to the federal parliament for the Johor-based seat of Tenggara.",
+              "text": "In 1995, Hishammuddin had been elected to the federal parliament for the Johor-based seat of Tenggara.",
               "links": [
                 {
                   "type": "internal",

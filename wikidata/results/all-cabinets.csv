@@ -1,15 +1,15 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q5453932,First Rahman cabinet,1955-01-01,9,1955-01-01,9,,,1959-01-01,9,,,Q7443612,Second Rahman cabinet,,,Q7443612,Second Rahman cabinet
-,Q7443612,Second Rahman cabinet,1959-01-01,9,1959-01-01,9,,,1964-01-01,9,Q5453932,First Rahman cabinet,Q21006107,Third Rahman cabinet,Q5453932,First Rahman cabinet,Q21006107,Third Rahman cabinet
+,Q5453932,First Rahman cabinet,1955-01-01,9,1955-01-01,9,1959-01-01,9,1959-01-01,9,,,Q7443612,Second Rahman cabinet,,,Q7443612,Second Rahman cabinet
+,Q7443612,Second Rahman cabinet,1959-01-01,9,1959-01-01,9,1964-01-01,9,1964-01-01,9,Q5453932,First Rahman cabinet,Q21006107,Third Rahman cabinet,Q5453932,First Rahman cabinet,Q21006107,Third Rahman cabinet
 ,Q21006107,Third Rahman cabinet,1964-01-01,9,,,1969-01-01,9,,,Q7443612,Second Rahman cabinet,Q21005984,Fourth Rahman cabinet,Q7443612,Second Rahman cabinet,Q21005984,Fourth Rahman cabinet
 ,Q21005984,Fourth Rahman cabinet,1969-01-01,9,,,1970-01-01,9,,,Q21006107,Third Rahman cabinet,Q21005982,First Razak cabinet,Q21006107,Third Rahman cabinet,Q21005982,First Razak cabinet
-,Q21005982,First Razak cabinet,1970-01-01,9,,,,,1974-01-01,9,Q21005984,Fourth Rahman cabinet,Q21006088,Second Razak cabinet,Q21005984,Fourth Rahman cabinet,Q21006088,Second Razak cabinet
-,Q21006088,Second Razak cabinet,1974-01-01,9,,,,,1976-01-01,9,Q21005982,First Razak cabinet,Q21005979,First Hussein cabinet,Q21005982,First Razak cabinet,Q21005979,First Hussein cabinet
-,Q21005979,First Hussein cabinet,1976-01-01,9,,,,,1978-01-01,9,Q21006088,Second Razak cabinet,Q21006085,Second Hussein cabinet,Q21006088,Second Razak cabinet,Q21006085,Second Hussein cabinet
-,Q21006085,Second Hussein cabinet,1978-01-01,9,,,,,1981-01-01,9,Q21005979,First Hussein cabinet,Q21005980,First Mahathir cabinet,Q21005979,First Hussein cabinet,Q21005980,First Mahathir cabinet
-,Q21005980,First Mahathir cabinet,1981-01-01,9,,,,,1982-01-01,9,Q21006085,Second Hussein cabinet,Q21006086,Second Mahathir cabinet,Q21006085,Second Hussein cabinet,Q21006086,Second Mahathir cabinet
-,Q21006086,Second Mahathir cabinet,1982-01-01,9,,,,,1986-01-01,9,Q21005980,First Mahathir cabinet,Q21006105,Third Mahathir cabinet,Q21005980,First Mahathir cabinet,Q21006105,Third Mahathir cabinet
-,Q21006105,Third Mahathir cabinet,1986-01-01,9,,,,,1990-01-01,9,Q21006086,Second Mahathir cabinet,Q21005983,Fourth Mahathir cabinet,Q21006086,Second Mahathir cabinet,Q21005983,Fourth Mahathir cabinet
+,Q21005982,First Razak cabinet,1970-01-01,9,,,1974-01-01,9,1974-01-01,9,Q21005984,Fourth Rahman cabinet,Q21006088,Second Razak cabinet,Q21005984,Fourth Rahman cabinet,Q21006088,Second Razak cabinet
+,Q21006088,Second Razak cabinet,1974-01-01,9,,,1976-01-01,9,1976-01-01,9,Q21005982,First Razak cabinet,Q21005979,First Hussein cabinet,Q21005982,First Razak cabinet,Q21005979,First Hussein cabinet
+,Q21005979,First Hussein cabinet,1976-01-01,9,,,1978-01-01,9,1978-01-01,9,Q21006088,Second Razak cabinet,Q21006085,Second Hussein cabinet,Q21006088,Second Razak cabinet,Q21006085,Second Hussein cabinet
+,Q21006085,Second Hussein cabinet,1978-01-01,9,,,1981-01-01,9,1981-01-01,9,Q21005979,First Hussein cabinet,Q21005980,First Mahathir cabinet,Q21005979,First Hussein cabinet,Q21005980,First Mahathir cabinet
+,Q21005980,First Mahathir cabinet,1981-01-01,9,,,1982-01-01,9,1982-01-01,9,Q21006085,Second Hussein cabinet,Q21006086,Second Mahathir cabinet,Q21006085,Second Hussein cabinet,Q21006086,Second Mahathir cabinet
+,Q21006086,Second Mahathir cabinet,1982-01-01,9,,,1986-01-01,9,1986-01-01,9,Q21005980,First Mahathir cabinet,Q21006105,Third Mahathir cabinet,Q21005980,First Mahathir cabinet,Q21006105,Third Mahathir cabinet
+,Q21006105,Third Mahathir cabinet,1986-01-01,9,,,1990-01-01,9,1990-01-01,9,Q21006086,Second Mahathir cabinet,Q21005983,Fourth Mahathir cabinet,Q21006086,Second Mahathir cabinet,Q21005983,Fourth Mahathir cabinet
 ,Q21005983,Fourth Mahathir cabinet,1990-01-01,9,,,1995-01-01,9,,,Q21006105,Third Mahathir cabinet,Q21005977,Fifth Mahathir cabinet,Q21006105,Third Mahathir cabinet,Q21005977,Fifth Mahathir cabinet
 ,Q21005977,Fifth Mahathir cabinet,1995-01-01,9,,,1999-01-01,9,,,Q21005983,Fourth Mahathir cabinet,Q21006092,Sixth Mahathir cabinet,Q21005983,Fourth Mahathir cabinet,Q21006092,Sixth Mahathir cabinet
 ,Q21006092,Sixth Mahathir cabinet,1999-01-01,9,,,2003-01-01,9,,,Q21005977,Fifth Mahathir cabinet,Q21005978,First Abdullah cabinet,Q21005977,Fifth Mahathir cabinet,Q21005978,First Abdullah cabinet

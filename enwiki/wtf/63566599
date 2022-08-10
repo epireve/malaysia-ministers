@@ -24,24 +24,6 @@
               "text": "{{Infobox officeholder"
             },
             {
-              "text": "Perikatan Nasional (PN)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Perikatan Nasional"
-                }
-              ]
-            },
-            {
-              "text": "Muafakat Nasional (MN)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Muafakat Nasional"
-                }
-              ]
-            },
-            {
               "text": "{{marriage|Nor Zamani Abdol Hamid|2010}}",
               "links": [
                 {
@@ -59,17 +41,18 @@
         {
           "sentences": [
             {
-              "text": "Adham bin Baba (أدهم بن بابا; born 6 October 1962) is a Malaysian politician who has served as Minister of Science, Technology and Innovation in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
+              "text": "Dato' Sri Dr. Adham bin Baba (أدهم بن بابا; born 6 October 1962) is a Malaysian politician who has served as Minister of Science, Technology and Innovation in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
               "links": [
                 {
-                  "text": "Malaysian",
+                  "text": "Dato' Sri",
                   "type": "internal",
-                  "page": "Malaysian people"
+                  "page": "Malay styles and titles",
+                  "anchor": "State titles"
                 },
                 {
-                  "text": "politician",
+                  "text": "Dr.",
                   "type": "internal",
-                  "page": "politician"
+                  "page": "Physician"
                 },
                 {
                   "text": "Minister of Science, Technology and Innovation",
@@ -164,11 +147,11 @@
           "template": "short description"
         },
         {
-          "date": "July 2014",
+          "date": "August 2022",
           "template": "engvarb"
         },
         {
-          "date": "January 2021",
+          "date": "August 2021",
           "template": "use dmy dates"
         },
         {
@@ -198,8 +181,9 @@
                 "anchor": "State titles"
               },
               {
+                "text": "Dr.",
                 "type": "internal",
-                "page": "Dr."
+                "page": "Physician"
               }
             ]
           },
@@ -343,7 +327,7 @@
             "text": "birth_date         = {{Birth date and age|1962|10|06|df=y}}"
           },
           {
-            "text": "birth_place        = Sg Dulang Rengit, Batu Pahat, Johor, Federation of Malaya (now Malaysia)",
+            "text": "birth_place        = Batu Pahat, Johor, Federation of Malaya (now Malaysia)",
             "links": [
               {
                 "type": "internal",
@@ -389,9 +373,7 @@
                 "page": "Barisan Nasional"
               }
             ]
-          }
-        ],
-        [
+          },
           {
             "text": "occupation         = Politician"
           },

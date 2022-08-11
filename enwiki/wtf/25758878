@@ -25,8 +25,14 @@
         {
           "sentences": [
             {
-              "text": "Noh bin Omar (Jawi: نوح بن عمر; born 23 February 1958) is a Malaysian politician who has served as Minister of Entrepreneur Development and Cooperative for second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021 and Member of Parliament (MP) for Tanjong Karang.",
+              "text": "Tan Sri Noh bin Haji Omar (Jawi: نوح بن عمر; born 23 February 1958) is a Malaysian politician who has served as Minister of Entrepreneur Development and Cooperative for second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021 and Member of Parliament (MP) for Tanjong Karang.",
               "links": [
+                {
+                  "text": "Tan Sri",
+                  "type": "internal",
+                  "page": "Malay styles and titles",
+                  "anchor": "Tan Sri"
+                },
                 {
                   "text": "Jawi",
                   "type": "internal",
@@ -67,7 +73,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Noh bin Omar"
+                  "Noh bin Haji Omar"
                 ]
               }
             },
@@ -133,6 +139,7 @@
             "Noh",
             "Omar"
           ],
+          "note": "on",
           "template": "malay name"
         },
         {

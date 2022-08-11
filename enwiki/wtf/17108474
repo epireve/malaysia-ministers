@@ -30,8 +30,14 @@
         {
           "sentences": [
             {
-              "text": "Mohamed Azmin bin Ali (Jawi: محمد عزمين بن علي; born 25 August 1964) is a Malaysian politician who has served as Senior Minister in charge of International Trade and Industry and Minister of International Trade and Industry under Prime Minister Ismail Sabri Yaakob since August 2021.",
+              "text": "Dato' Seri Mohamed Azmin bin Ali (Jawi: محمد عزمين بن علي; born 25 August 1964) is a Malaysian politician who has served as Senior Minister in charge of International Trade and Industry and Minister of International Trade and Industry under Prime Minister Ismail Sabri Yaakob since August 2021.",
               "links": [
+                {
+                  "text": "Dato' Seri",
+                  "type": "internal",
+                  "page": "Malay titles",
+                  "anchor": "State titles"
+                },
                 {
                   "text": "Jawi",
                   "type": "internal",
@@ -73,7 +79,7 @@
         {
           "sentences": [
             {
-              "text": "He served his first term in the Perikatan Nasional (PN) administration under former Prime Minister Muhyiddin Yassin from March 2020 to August 2021.",
+              "text": "Azmin served his first term in the Perikatan Nasional (PN) administration under former Prime Minister Muhyiddin Yassin from March 2020 to August 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -191,11 +197,11 @@
           "template": "malay name"
         },
         {
-          "date": "October 2014",
+          "date": "August 2022",
           "template": "engvarb"
         },
         {
-          "date": "October 2014",
+          "date": "August 2022",
           "template": "use dmy dates"
         },
         {

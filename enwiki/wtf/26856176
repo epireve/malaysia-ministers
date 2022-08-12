@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Dato' Sri Haji Fadillah bin Yusof (Jawi: فضيلة بن يوسف; born 17 April 1962) is a Malaysian politician who has served as Senior Minister in charge of Infrastructure Development and Minister of Works under Prime Minister Ismail Sabri Yaakob since August 2021.",
+              "text": "Dato' Sri Haji Fadillah bin Yusof (Jawi: فضيلة بن يوسف; born 17 April 1962) is a Malaysian politician who has served as Senior Minister of the Infrastructure Development Cluster and as Minister of Works since August 2021.",
               "links": [
                 {
                   "text": "Dato' Sri",
@@ -41,17 +41,7 @@
                   "page": "Jawi alphabet"
                 },
                 {
-                  "text": "Malaysian",
-                  "type": "internal",
-                  "page": "Malaysian people"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "Senior Minister",
+                  "text": "Senior Minister of the Infrastructure Development Cluster",
                   "type": "internal",
                   "page": "Senior Minister of Malaysia"
                 },
@@ -59,10 +49,6 @@
                   "text": "Minister of Works",
                   "type": "internal",
                   "page": "Minister of Works (Malaysia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ismail Sabri Yaakob"
                 }
               ],
               "formatting": {
@@ -72,11 +58,20 @@
               }
             },
             {
-              "text": "He has also served as Member of Parliament (MP) for Petra Jaya since March 2004.",
+              "text": "A member of Parti Pesaka Bumiputera Bersatu (PBB), which is the component party of Gabungan Parti Sarawak (GPS) coalition, he has been Member of Parliament (MP) for Petra Jaya since March 2004.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Member of Parliament"
+                  "page": "Parti Pesaka Bumiputera Bersatu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gabungan Parti Sarawak"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (Malaysia)"
                 },
                 {
                   "text": "Petra Jaya",
@@ -192,6 +187,35 @@
           "template": "script"
         },
         {
+          "list": [
+            "Abdul Halim",
+            "Muhammad V"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Mizan Zainal Abidin",
+            "Abdul Halim"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Abdullah Ahmad Badawi",
+            "Najib Razak"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Abdul Taib Mahmud",
+            "Adenan Satem",
+            "Abang Abdul Rahman Zohari Abang Openg"
+          ],
+          "template": "unbulleted list"
+        },
+        {
           "year": "1962",
           "month": "4",
           "day": "17",
@@ -264,62 +288,81 @@
           "caption": {
             "text": "Fadillah in 2020"
           },
-          "birth_name": {
-            "text": "Fadillah bin Yusof"
-          },
-          "birth_date": {
-            "text": "April 17, 1962"
-          },
-          "birth_place": {
-            "text": "Kampung Hilir, Sibu, Crown Colony of Sarawak (now Sarawak, Malaysia)",
+          "office": {
+            "text": "Senior Minister of Infrastructure Development Cluster",
             "links": [
               {
+                "text": "Senior Minister of Infrastructure Development Cluster",
                 "type": "internal",
-                "page": "Sibu"
-              },
-              {
-                "type": "internal",
-                "page": "Crown Colony of Sarawak"
+                "page": "Senior Minister of Malaysia"
               }
             ]
           },
-          "residence": {
-            "text": "Petra Jaya, Kuching, Sarawak, Malaysia",
+          "term_start": {
+            "text": "29 August 2021"
+          },
+          "monarch": {
+            "text": "Abdullah",
             "links": [
               {
+                "text": "Abdullah",
                 "type": "internal",
-                "page": "Petra Jaya"
-              },
-              {
-                "type": "internal",
-                "page": "Kuching"
-              },
-              {
-                "type": "internal",
-                "page": "Sarawak"
+                "page": "Abdullah of Pahang"
               }
             ]
           },
-          "office1": {
-            "text": "Ministerial roles"
-          },
-          "subterm1": {
-            "text": "2008–2013"
-          },
-          "suboffice1": {
-            "text": "Deputy Minister of Science, Technology and Innovation",
+          "primeminister": {
+            "text": "Ismail Sabri Yaakob",
             "links": [
               {
-                "text": "Deputy Minister of Science, Technology and Innovation",
                 "type": "internal",
-                "page": "Minister of Science, Technology and Innovation (Malaysia)"
+                "page": "Ismail Sabri Yaakob"
               }
             ]
           },
-          "subterm2": {
-            "text": "2013–2018"
+          "predecessor": {
+            "text": "himself",
+            "formatting": {
+              "italic": [
+                "himself"
+              ]
+            }
           },
-          "suboffice2": {
+          "term_start1": {
+            "text": "10 March 2020"
+          },
+          "term_end1": {
+            "text": "16 August 2021"
+          },
+          "monarch1": {
+            "text": "Abdullah"
+          },
+          "primeminister1": {
+            "text": "Muhyiddin Yassin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhyiddin Yassin"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "successor1": {
+            "text": "himself",
+            "formatting": {
+              "italic": [
+                "himself"
+              ]
+            }
+          },
+          "office2": {
             "text": "Minister of Works",
             "links": [
               {
@@ -329,82 +372,245 @@
               }
             ]
           },
-          "subterm3": {
-            "text": "2020–"
+          "term_start2": {
+            "text": "29 August 2021"
           },
-          "suboffice3": {
-            "text": "Senior Minister of Infrastructure Development",
+          "monarch2": {
+            "text": "Abdullah"
+          },
+          "primeminister2": {
+            "text": "Ismail Sabri Yaakob"
+          },
+          "predecessor2": {
+            "text": "himself",
+            "formatting": {
+              "italic": [
+                "himself"
+              ]
+            }
+          },
+          "term_start3": {
+            "text": "10 March 2020"
+          },
+          "term_end3": {
+            "text": "16 August 2021"
+          },
+          "monarch3": {
+            "text": "Abdullah"
+          },
+          "primeminister3": {
+            "text": "Muhyiddin Yassin"
+          },
+          "predecessor3": {
+            "text": "Baru Bian",
             "links": [
               {
-                "text": "Senior Minister of Infrastructure Development",
                 "type": "internal",
-                "page": "Senior Minister of Malaysia"
+                "page": "Baru Bian"
               }
             ]
           },
-          "subterm4": {
-            "text": "2020–"
+          "successor3": {
+            "text": "himself",
+            "formatting": {
+              "italic": [
+                "himself"
+              ]
+            }
           },
-          "suboffice4": {
-            "text": "Minister of Works",
+          "term_start4": {
+            "text": "16 May 2013"
+          },
+          "term_end4": {
+            "text": "9 May 2018"
+          },
+          "monarch4": {
+            "text": "Abdul Halim\n\nMuhammad V"
+          },
+          "primeminister4": {
+            "text": "Najib Razak",
             "links": [
               {
-                "text": "Minister of Works",
                 "type": "internal",
-                "page": "Ministry of Works (Malaysia)"
+                "page": "Najib Razak"
               }
             ]
           },
-          "office12": {
-            "text": "Other roles"
-          },
-          "suboffice12": {
-            "text": "Chairman of Science, Innovation and Environment Select Committee",
+          "predecessor4": {
+            "text": "Shaziman Abu Mansor",
             "links": [
               {
                 "type": "internal",
-                "page": "Science, Innovation and Environment Select Committee"
+                "page": "Shaziman Abu Mansor"
               }
             ]
           },
-          "subterm12": {
-            "text": "2019–2020"
+          "successor4": {
+            "text": "Baru Bian"
           },
-          "office8": {
-            "text": "Faction represented in Dewan Rakyat",
+          "office5": {
+            "text": "Deputy Minister of Science, Technology and Innovation",
             "links": [
               {
+                "text": "Deputy Minister of Science, Technology and Innovation",
                 "type": "internal",
-                "page": "Dewan Rakyat"
+                "page": "Minister of Science, Technology and Innovation (Malaysia)"
               }
             ]
           },
-          "subterm8": {
-            "text": "2004–2018"
+          "term_start5": {
+            "text": "19 March 2008"
           },
-          "suboffice8": {
-            "text": "Barisan Nasional",
+          "term_end5": {
+            "text": "15 May 2013"
+          },
+          "monarch5": {
+            "text": "Mizan Zainal Abidin\n\nAbdul Halim"
+          },
+          "primeminister5": {
+            "text": "Abdullah Ahmad Badawi\n\nNajib Razak"
+          },
+          "predecessor5": {
+            "text": "Kong Cho Ha",
             "links": [
               {
                 "type": "internal",
-                "page": "Barisan Nasional"
+                "page": "Kong Cho Ha"
               }
             ]
           },
-          "subterm9": {
-            "text": "2018–"
+          "successor5": {
+            "text": "Abu Bakar Mohamad Diah"
           },
-          "suboffice9": {
-            "text": "Gabungan Parti Sarawak",
+          "office6": {
+            "text": "Senior Vice President of Parti Pesaka Bumiputera Bersatu",
             "links": [
               {
                 "type": "internal",
-                "page": "Gabungan Parti Sarawak"
+                "page": "Parti Pesaka Bumiputera Bersatu"
+              }
+            ]
+          },
+          "alongside6": {
+            "text": "Michael Manyin Jawong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Manyin Jawong"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "2017",
+            "number": 2017
+          },
+          "president6": {
+            "text": "Abang Abdul Rahman Zohari Abang Openg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abang Abdul Rahman Zohari Abang Openg"
+              }
+            ]
+          },
+          "office7": {
+            "text": "Youth Chief of Parti Pesaka Bumiputera Bersatu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parti Pesaka Bumiputera Bersatu"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end7": {
+            "text": "2017",
+            "number": 2017
+          },
+          "president7": {
+            "text": "Abdul Taib Mahmud\n\nAdenan Satem\n\nAbang Abdul Rahman Zohari Abang Openg"
+          },
+          "successor7": {
+            "text": "Gerald Rentap Jabu"
+          },
+          "parliament8": {
+            "text": "Malaysian"
+          },
+          "constituency_mp8": {
+            "text": "Petra Jaya",
+            "links": [
+              {
+                "text": "Petra Jaya",
+                "type": "internal",
+                "page": "Petra Jaya (federal constituency)"
+              }
+            ]
+          },
+          "term_start8": {
+            "text": "21 March 2004"
+          },
+          "majority8": {
+            "text": "12,816 (2004) 14,397 (2008) 21,443 (2013) 15,017 (2018)",
+            "links": [
+              {
+                "text": "2004",
+                "type": "internal",
+                "page": "2004 Malaysian general election"
+              },
+              {
+                "text": "2008",
+                "type": "internal",
+                "page": "2008 Malaysian general election"
+              },
+              {
+                "text": "2013",
+                "type": "internal",
+                "page": "2013 Malaysian general election"
+              },
+              {
+                "text": "2018",
+                "type": "internal",
+                "page": "2018 Malaysian general election"
+              }
+            ]
+          },
+          "predecessor8": {
+            "text": "Sulaiman Daud",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sulaiman Daud"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Fadillah bin Yusof"
+          },
+          "birth_date": {
+            "text": "April 17, 1962"
+          },
+          "birth_place": {
+            "text": "Sibu, Crown Colony of Sarawak (now Malaysia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sibu"
+              },
+              {
+                "type": "internal",
+                "page": "Crown Colony of Sarawak"
+              },
+              {
+                "type": "internal",
+                "page": "Malaysia"
               }
             ]
           },
           "party": {
-            "text": "Parti Pesaka Bumiputera Bersatu (PBB)",
+            "text": "Parti Pesaka Bumiputera Bersatu",
             "links": [
               {
                 "type": "internal",
@@ -413,19 +619,11 @@
             ]
           },
           "otherparty": {
-            "text": "Perikatan Nasional (PN) (allied) Gabungan Parti Sarawak (GPS) Barisan Nasional (BN)",
+            "text": "Gabungan Parti Sarawak",
             "links": [
               {
                 "type": "internal",
-                "page": "Perikatan Nasional"
-              },
-              {
-                "type": "internal",
                 "page": "Gabungan Parti Sarawak"
-              },
-              {
-                "type": "internal",
-                "page": "Barisan Nasional"
               }
             ]
           },
@@ -449,6 +647,10 @@
           },
           "spouse": {
             "text": "Ruziah Mohd Tahir"
+          },
+          "children": {
+            "text": "5",
+            "number": 5
           },
           "alma_mater": {
             "text": "University of Malaya (LLB)",

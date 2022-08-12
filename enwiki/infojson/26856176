@@ -2,57 +2,165 @@
   {
     "office": {
       "links": [
-        "Dewan Rakyat"
+
       ],
-      "stated_as": "Faction represented in Dewan Rakyat"
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Petra Jaya (federal constituency)"
+      ],
+      "stated_as": "Petra Jaya"
+    },
+    "P580": "2004-03-21",
+    "P1365": {
+      "links": [
+        "Sulaiman Daud"
+      ],
+      "stated_as": "Sulaiman Daud"
     }
   },
   {
     "office": {
       "links": [
-        "Dewan Rakyat"
+        "Parti Pesaka Bumiputera Bersatu"
       ],
-      "stated_as": "Faction represented in Dewan Rakyat"
-    }
-  },
-  {
-    "office": {
+      "stated_as": "Youth Chief of Parti Pesaka Bumiputera Bersatu"
+    },
+    "P580": "2007",
+    "P582": "2017",
+    "P1366": {
       "links": [
 
       ],
-      "stated_as": "Ministerial roles"
+      "stated_as": "Gerald Rentap Jabu"
     }
   },
   {
     "office": {
       "links": [
+        "Minister of Science, Technology and Innovation (Malaysia)"
+      ],
+      "stated_as": "Deputy Minister of Science, Technology and Innovation"
+    },
+    "P580": "2008-03-19",
+    "P1365": {
+      "links": [
+        "Kong Cho Ha"
+      ],
+      "stated_as": "Kong Cho Ha"
+    },
+    "P582": "2013-05-15",
+    "P1366": {
+      "links": [
 
       ],
-      "stated_as": "Ministerial roles"
+      "stated_as": "Abu Bakar Mohamad Diah"
     }
   },
   {
     "office": {
       "links": [
+        "Minister of Works (Malaysia)"
+      ],
+      "stated_as": "Minister of Works"
+    },
+    "P580": "2013-05-16",
+    "P1365": {
+      "links": [
+        "Shaziman Abu Mansor"
+      ],
+      "stated_as": "Shaziman Abu Mansor"
+    },
+    "P582": "2018-05-09",
+    "P1366": {
+      "links": [
 
       ],
-      "stated_as": "Ministerial roles"
+      "stated_as": "Baru Bian"
     }
   },
   {
     "office": {
       "links": [
+        "Parti Pesaka Bumiputera Bersatu"
+      ],
+      "stated_as": "Senior Vice President of Parti Pesaka Bumiputera Bersatu"
+    },
+    "P580": "2017"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Works (Malaysia)"
+      ],
+      "stated_as": "Minister of Works"
+    },
+    "P580": "2020-03-10",
+    "P1365": {
+      "links": [
+        "Baru Bian"
+      ],
+      "stated_as": "Baru Bian"
+    },
+    "P582": "2021-08-16",
+    "P1366": {
+      "links": [
 
       ],
-      "stated_as": "Ministerial roles"
+      "stated_as": "himself"
     }
   },
   {
     "office": {
       "links": [
+        "Senior Minister of Malaysia"
+      ],
+      "stated_as": "Senior Minister of Infrastructure Development Cluster"
+    },
+    "P580": "2020-03-10",
+    "P1365": {
+      "links": [
 
       ],
-      "stated_as": "Other roles"
+      "stated_as": "Office established"
+    },
+    "P582": "2021-08-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "himself"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Works (Malaysia)"
+      ],
+      "stated_as": "Minister of Works"
+    },
+    "P580": "2021-08-29",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "himself"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senior Minister of Malaysia"
+      ],
+      "stated_as": "Senior Minister of Infrastructure Development Cluster"
+    },
+    "P580": "2021-08-29",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "himself"
     }
   }
 ]

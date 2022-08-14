@@ -30,7 +30,7 @@
         {
           "sentences": [
             {
-              "text": "Dato' Seri Mohamed Azmin bin Ali (Jawi: محمد عزمين بن علي; born 25 August 1964) is a Malaysian politician who has served as Senior Minister in charge of International Trade and Industry and Minister of International Trade and Industry under Prime Minister Ismail Sabri Yaakob since August 2021.",
+              "text": "Dato' Seri Mohamed Azmin bin Ali (Jawi: محمد عزمين بن علي; born 25 August 1964) is a Malaysian politician who has served as Senior Minister of the Economic Cluster and as Minister of International Trade and Industry since August 2021.",
               "links": [
                 {
                   "text": "Dato' Seri",
@@ -44,17 +44,7 @@
                   "page": "Jawi alphabet"
                 },
                 {
-                  "text": "Malaysian",
-                  "type": "internal",
-                  "page": "Malaysian people"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "Senior Minister",
+                  "text": "Senior Minister of the Economic Cluster",
                   "type": "internal",
                   "page": "Senior Minister of Malaysia"
                 },
@@ -62,10 +52,6 @@
                   "text": "Minister of International Trade and Industry",
                   "type": "internal",
                   "page": "Minister of International Trade and Industry (Malaysia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ismail Sabri Yaakob"
                 }
               ],
               "formatting": {
@@ -73,6 +59,184 @@
                   "Mohamed Azmin bin Ali"
                 ]
               }
+            },
+            {
+              "text": "A member of Parti Pribumi Bersatu Malaysia (BERSATU), which is the component party of Perikatan Nasional (PN) coalition, he has been Member of Parliament (MP) for Gombak and Member of the Selangor State Legislative Assembly (MLA) for Bukit Antarabangsa since March 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parti Pribumi Bersatu Malaysia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Perikatan Nasional"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (Malaysia)"
+                },
+                {
+                  "text": "Gombak",
+                  "type": "internal",
+                  "page": "Gombak (federal constituency)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Selangor State Legislative Assembly"
+                },
+                {
+                  "text": "Bukit Antarabangsa",
+                  "type": "internal",
+                  "page": "Bukit Antarabangsa (state constituency)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Azmin was born in Singapore before his family migrated to Malaysia, and was raised in Kuala Lumpur.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Singapore"
+                },
+                {
+                  "type": "internal",
+                  "page": "Malaysia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kuala Lumpur"
+                }
+              ]
+            },
+            {
+              "text": "He studied at the University of Minnesota before earning a degree in economics and mathematics, and later continued his master's degree.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Minnesota"
+                }
+              ]
+            },
+            {
+              "text": "During his study, he was actively involved in student politics."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Azmin started working for Anwar Ibrahim, who was a cabinet minister under Prime Minister Mahathir Mohamad at the time, in 1987 after returning to Malaysia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anwar Ibrahim"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mahathir Mohamad"
+                }
+              ]
+            },
+            {
+              "text": "After Anwar was made deputy prime minister, Azmin was hired by him to be his personal secretary.",
+              "links": [
+                {
+                  "text": "deputy prime minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Malaysia"
+                }
+              ]
+            },
+            {
+              "text": "In 1998, Anwar was dismissed from the government; however, Azmin stayed loyal and close to him.",
+              "links": [
+                {
+                  "text": "was dismissed",
+                  "type": "internal",
+                  "page": "Reformasi (Malaysia)"
+                }
+              ]
+            },
+            {
+              "text": "They both protested the decision and went on to establish Parti Keadilan Rakyat (PKR), a new political party that they both served as founders of.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parti Keadilan Rakyat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Azmin's political career began after he won the Hulu Kelang state assembly seat in the 1999 election.",
+              "links": [
+                {
+                  "text": "Hulu Kelang",
+                  "type": "internal",
+                  "page": "Hulu Kelang (state constituency)"
+                },
+                {
+                  "text": "1999 election",
+                  "type": "internal",
+                  "page": "1999 Malaysian general election"
+                }
+              ]
+            },
+            {
+              "text": "He was unable to defend the seat in the 2004 election after being barred for allegedly lying in court during the trial against Anwar.",
+              "links": [
+                {
+                  "text": "2004 election",
+                  "type": "internal",
+                  "page": "2004 Malaysian general election"
+                }
+              ]
+            },
+            {
+              "text": "Azmin returned to politics in the 2008 election after winning the Gombak parliamentary seat and the Bukit Antarabangsa state assembly seat.",
+              "links": [
+                {
+                  "text": "2008 election",
+                  "type": "internal",
+                  "page": "2008 Malaysian general election"
+                },
+                {
+                  "text": "Gombak",
+                  "type": "internal",
+                  "page": "Gombak (federal constituency)"
+                },
+                {
+                  "text": "Bukit Antarabangsa",
+                  "type": "internal",
+                  "page": "Bukit Antarabangsa (state constituency)"
+                }
+              ]
+            },
+            {
+              "text": "In 2010, he became the deputy president of PKR."
+            },
+            {
+              "text": "He managed to win both seats in the 2013 and 2018 elections.",
+              "links": [
+                {
+                  "text": "2013",
+                  "type": "internal",
+                  "page": "2013 Malaysian general election"
+                },
+                {
+                  "text": "2018 elections",
+                  "type": "internal",
+                  "page": "2018 Malaysian general election"
+                }
+              ]
             }
           ]
         },
@@ -88,29 +252,6 @@
                 {
                   "type": "internal",
                   "page": "Muhyiddin Yassin"
-                }
-              ]
-            },
-            {
-              "text": "He has also served as Member of Parliament (MP) for Gombak and Member of the Selangor State Legislative Assembly (MLA) for Bukit Antarabangsa since March 2008.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Member of Parliament"
-                },
-                {
-                  "text": "Gombak",
-                  "type": "internal",
-                  "page": "Gombak (federal constituency)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Selangor State Legislative Assembly"
-                },
-                {
-                  "text": "Bukit Antarabangsa",
-                  "type": "internal",
-                  "page": "Bukit Antarabangsa (state constituency)"
                 }
               ]
             },
@@ -212,6 +353,20 @@
           "template": "script"
         },
         {
+          "list": [
+            "Muhammad V",
+            "Abdullah"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Wan Azizah Wan Ismail",
+            "Anwar Ibrahim"
+          ],
+          "template": "unbulleted list"
+        },
+        {
           "1": "Nurul Izzah Anwar",
           "2": "Tian Chua",
           "3": "Fuziah Salleh",
@@ -225,6 +380,31 @@
           "day": "25",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "list": [
+            "United Malays National Organisation (1987–1998)",
+            "Parti Keadilan Rakyat (1998–2020)",
+            "Parti Pribumi Bersatu Malaysia (2020–present)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Barisan Nasional (1987–1998)",
+            "Barisan Alternatif (1998–2004)",
+            "Pakatan Rakyat (2008–2015)",
+            "Pakatan Harapan (2015–2020)",
+            "Perikatan Nasional (2020–present)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Azwan Ali (brother)",
+            "Ummi Hafilda Ali (sister)"
+          ],
+          "template": "unbulleted list"
         },
         {
           "list": [
@@ -287,13 +467,137 @@
           "caption": {
             "text": "Azmin in 2022"
           },
-          "office6": {
-            "text": "Ministerial roles"
+          "office": {
+            "text": "Senior Minister of Economic Cluster",
+            "links": [
+              {
+                "text": "Senior Minister of Economic Cluster",
+                "type": "internal",
+                "page": "Senior Minister of Malaysia"
+              }
+            ]
           },
-          "subterm6": {
-            "text": "2018–2020"
+          "term_start": {
+            "text": "29 August 2021"
           },
-          "suboffice6": {
+          "monarch": {
+            "text": "Abdullah",
+            "links": [
+              {
+                "text": "Abdullah",
+                "type": "internal",
+                "page": "Abdullah of Pahang"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Ismail Sabri Yaakob",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ismail Sabri Yaakob"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "himself",
+            "formatting": {
+              "italic": [
+                "himself"
+              ]
+            }
+          },
+          "term_start1": {
+            "text": "10 March 2020"
+          },
+          "term_end1": {
+            "text": "16 August 2021"
+          },
+          "monarch1": {
+            "text": "Abdullah"
+          },
+          "primeminister1": {
+            "text": "Muhyiddin Yassin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhyiddin Yassin"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "successor1": {
+            "text": "himself",
+            "formatting": {
+              "italic": [
+                "himself"
+              ]
+            }
+          },
+          "office2": {
+            "text": "Minister of International Trade and Industry",
+            "links": [
+              {
+                "text": "Minister of International Trade and Industry",
+                "type": "internal",
+                "page": "Minister of International Trade and Industry (Malaysia)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "29 August 2021"
+          },
+          "monarch2": {
+            "text": "Abdullah"
+          },
+          "primeminister2": {
+            "text": "Ismail Sabri Yaakob"
+          },
+          "predecessor2": {
+            "text": "himself",
+            "formatting": {
+              "italic": [
+                "himself"
+              ]
+            }
+          },
+          "term_start3": {
+            "text": "10 March 2020"
+          },
+          "term_end3": {
+            "text": "16 August 2021"
+          },
+          "monarch3": {
+            "text": "Abdullah"
+          },
+          "primeminister3": {
+            "text": "Muhyiddin Yassin"
+          },
+          "predecessor3": {
+            "text": "Darell Leiking",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Darell Leiking"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "himself",
+            "formatting": {
+              "italic": [
+                "himself"
+              ]
+            }
+          },
+          "office4": {
             "text": "Minister of Economic Affairs",
             "links": [
               {
@@ -303,43 +607,52 @@
               }
             ]
           },
-          "subterm7": {
-            "text": "2020–"
+          "term_start4": {
+            "text": "21 May 2018"
           },
-          "suboffice7": {
-            "text": "Senior Minister",
+          "term_end4": {
+            "text": "24 February 2020"
+          },
+          "monarch4": {
+            "text": "Muhammad V\n\nAbdullah"
+          },
+          "primeminister4": {
+            "text": "Mahathir Mohamad",
             "links": [
               {
-                "text": "Senior Minister",
                 "type": "internal",
-                "page": "Senior Minister of Malaysia"
+                "page": "Mahathir Mohamad"
               }
             ]
           },
-          "subterm8": {
-            "text": "2020–"
-          },
-          "suboffice8": {
-            "text": "Minister of International Trade and Industry",
+          "predecessor4": {
+            "text": "Abdul Rahman Dahlan",
             "links": [
               {
-                "text": "Minister of International Trade and Industry",
                 "type": "internal",
-                "page": "Ministry of International Trade and Industry (Malaysia)"
+                "page": "Abdul Rahman Dahlan"
               }
             ]
           },
-          "office": {
+          "successor4": {
+            "text": "Mustapa Mohamed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mustapa Mohamed"
+              }
+            ]
+          },
+          "office5": {
             "text": "15th Menteri Besar of Selangor",
             "links": [
               {
-                "text": "15th Menteri Besar of Selangor",
                 "type": "internal",
-                "page": "List of Menteris Besar of Selangor"
+                "page": "Menteri Besar of Selangor"
               }
             ]
           },
-          "monarch": {
+          "monarch5": {
             "text": "Sharafuddin",
             "links": [
               {
@@ -349,13 +662,13 @@
               }
             ]
           },
-          "term_start": {
+          "term_start5": {
             "text": "23 September 2014"
           },
-          "term_end": {
+          "term_end5": {
             "text": "19 June 2018"
           },
-          "predecessor": {
+          "predecessor5": {
             "text": "Abdul Khalid Ibrahim",
             "links": [
               {
@@ -364,7 +677,7 @@
               }
             ]
           },
-          "successor": {
+          "successor5": {
             "text": "Amirudin Shari",
             "links": [
               {
@@ -373,36 +686,25 @@
               }
             ]
           },
-          "order3": {
-            "text": "4th Deputy President of the People's Justice Party",
+          "office6": {
+            "text": "4th Deputy President of Parti Keadilan Rakyat",
             "links": [
               {
-                "text": "People's Justice Party",
                 "type": "internal",
-                "page": "People's Justice Party (Malaysia)"
+                "page": "Parti Keadilan Rakyat"
               }
             ]
           },
-          "term_start3": {
+          "term_start6": {
             "text": "28 November 2010"
           },
-          "term_end3": {
+          "term_end6": {
             "text": "24 February 2020"
           },
-          "president3": {
-            "text": "Wan Azizah Wan Ismail (2010–2018) Anwar Ibrahim (2018–2020)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wan Azizah Wan Ismail"
-              },
-              {
-                "type": "internal",
-                "page": "Anwar Ibrahim"
-              }
-            ]
+          "president6": {
+            "text": "Wan Azizah Wan Ismail\n\nAnwar Ibrahim"
           },
-          "predecessor3": {
+          "predecessor6": {
             "text": "Syed Husin Ali",
             "links": [
               {
@@ -411,7 +713,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor6": {
             "text": "Rafizi Ramli",
             "links": [
               {
@@ -420,31 +722,25 @@
               }
             ]
           },
-          "order4": {
-            "text": "Vice-President of the People's Justice Party",
+          "office7": {
+            "text": "Vice President of Parti Keadilan Rakyat",
             "links": [
               {
                 "type": "internal",
-                "page": "People's Justice Party"
+                "page": "Parti Keadilan Rakyat"
               }
             ]
           },
-          "term_start4": {
+          "term_start7": {
             "text": "9 November 2001"
           },
-          "term_end4": {
+          "term_end7": {
             "text": "28 November 2010"
           },
-          "president4": {
-            "text": "Wan Azizah Wan Ismail",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wan Azizah Wan Ismail"
-              }
-            ]
+          "president7": {
+            "text": "Wan Azizah Wan Ismail"
           },
-          "predecessor4": {
+          "predecessor7": {
             "text": "Position established",
             "formatting": {
               "italic": [
@@ -514,66 +810,16 @@
             ]
           },
           "party": {
-            "text": "UMNO (1987–1998) PKR (1998–2020) BERSATU (since 2020)",
-            "links": [
-              {
-                "text": "UMNO",
-                "type": "internal",
-                "page": "United Malays National Organisation"
-              },
-              {
-                "text": "PKR",
-                "type": "internal",
-                "page": "People's Justice Party (Malaysia)"
-              },
-              {
-                "text": "BERSATU",
-                "type": "internal",
-                "page": "Malaysian United Indigenous Party"
-              }
-            ]
+            "text": "United Malays National Organisation (1987–1998)\n\nParti Keadilan Rakyat (1998–2020)\n\nParti Pribumi Bersatu Malaysia (2020–present)"
           },
           "otherparty": {
-            "text": "Barisan Nasional (1987–1998) Barisan Alternatif (1998–2004) Pakatan Rakyat (2008–2015) Pakatan Harapan (2015–2020) Perikatan Nasional (since 2020)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Barisan Nasional"
-              },
-              {
-                "type": "internal",
-                "page": "Barisan Alternatif"
-              },
-              {
-                "type": "internal",
-                "page": "Pakatan Rakyat"
-              },
-              {
-                "type": "internal",
-                "page": "Pakatan Harapan"
-              },
-              {
-                "type": "internal",
-                "page": "Perikatan Nasional"
-              }
-            ]
+            "text": "Barisan Nasional (1987–1998)\n\nBarisan Alternatif (1998–2004)\n\nPakatan Rakyat (2008–2015)\n\nPakatan Harapan (2015–2020)\n\nPerikatan Nasional (2020–present)"
           },
           "occupation": {
             "text": "Politician"
           },
           "relations": {
-            "text": "Azwan Ali (brother)\nUmmi Hafilda Ali (sister)",
-            "links": [
-              {
-                "text": "Azwan Ali",
-                "type": "internal",
-                "page": "Azwan Ali (actor)"
-              },
-              {
-                "type": "internal",
-                "page": "Ummi Hafilda Ali"
-              }
-            ]
+            "text": "Azwan Ali (brother)\n\nUmmi Hafilda Ali (sister)"
           },
           "spouse": {
             "text": "Shamshida Tahrin"
@@ -587,152 +833,6 @@
           },
           "signature": {
             "text": "Tt azmin ali.svg"
-          }
-        },
-        {
-          "office1": {
-            "text": "Faction represented in Dewan Rakyat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dewan Rakyat"
-              }
-            ]
-          },
-          "subterm1": {
-            "text": "2008–2018"
-          },
-          "suboffice1": {
-            "text": "People's Justice Party",
-            "links": [
-              {
-                "text": "People's Justice Party",
-                "type": "internal",
-                "page": "People's Justice Party (Malaysia)"
-              }
-            ]
-          },
-          "subterm2": {
-            "text": "2018–2020"
-          },
-          "suboffice2": {
-            "text": "Pakatan Harapan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakatan Harapan"
-              }
-            ]
-          },
-          "subterm3": {
-            "text": "2020",
-            "number": 2020
-          },
-          "suboffice3": {
-            "text": "Malaysian United Indigenous Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Malaysian United Indigenous Party"
-              }
-            ]
-          },
-          "subterm4": {
-            "text": "2020–"
-          },
-          "suboffice4": {
-            "text": "Perikatan Nasional",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Perikatan Nasional"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Faction represented in Selangor State Legislative Assembly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Selangor State Legislative Assembly"
-              }
-            ]
-          },
-          "subterm6": {
-            "text": "1999–2003"
-          },
-          "suboffice6": {
-            "text": "National Justice Party",
-            "links": [
-              {
-                "text": "National Justice Party",
-                "type": "internal",
-                "page": "People's Justice Party (Malaysia)"
-              }
-            ]
-          },
-          "subterm7": {
-            "text": "2003–2004"
-          },
-          "suboffice7": {
-            "text": "People's Justice Party",
-            "links": [
-              {
-                "text": "People's Justice Party",
-                "type": "internal",
-                "page": "People's Justice Party (Malaysia)"
-              }
-            ]
-          },
-          "subterm8": {
-            "text": "2008–2018"
-          },
-          "suboffice8": {
-            "text": "People's Justice Party",
-            "links": [
-              {
-                "text": "People's Justice Party",
-                "type": "internal",
-                "page": "People's Justice Party (Malaysia)"
-              }
-            ]
-          },
-          "subterm9": {
-            "text": "2018–2020"
-          },
-          "suboffice9": {
-            "text": "Pakatan Harapan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pakatan Harapan"
-              }
-            ]
-          },
-          "subterm10": {
-            "text": "2020",
-            "number": 2020
-          },
-          "suboffice10": {
-            "text": "Malaysian United Indigenous Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Malaysian United Indigenous Party"
-              }
-            ]
-          },
-          "subterm11": {
-            "text": "2020–"
-          },
-          "suboffice11": {
-            "text": "Perikatan Nasional",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Perikatan Nasional"
-              }
-            ]
           }
         }
       ],
@@ -3410,10 +3510,20 @@
           "template": "s-vac"
         },
         {
-          "template": "selangor-fedrep"
+          "template": "seventh mahathir cabinet"
         },
         {
-          "template": "seventh mahathir cabinet"
+          "template": "muhyiddin cabinet"
+        },
+        {
+          "template": "ismail sabri cabinet"
+        },
+        {
+          "title": "Cabinet terms",
+          "template": "navboxes"
+        },
+        {
+          "template": "selangor-fedrep"
         },
         {
           "list": [

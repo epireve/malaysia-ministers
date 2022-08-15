@@ -252,8 +252,16 @@
             "text": "October 19, 1963"
           },
           "birth_place": {
-            "text": "Perak, Malaysia",
+            "text": "Changkat Jering, Taiping, Perak, Malaysia",
             "links": [
+              {
+                "type": "internal",
+                "page": "Changkat Jering"
+              },
+              {
+                "type": "internal",
+                "page": "Taiping"
+              },
               {
                 "type": "internal",
                 "page": "Perak"

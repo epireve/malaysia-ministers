@@ -2640,6 +2640,43 @@
       ]
     },
     {
+      "title": "Handling of Littoral Combat Ship (LCS) Scandal",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 10 August 2022 in the midst LCS scandal, Ismail Sabri said that the government will declassify the Littoral Combat Ship (LCS) documents."
+            },
+            {
+              "text": "\"[...] \"The cabinet has agreed to urge the MACC to speed up the probe and if strong evidence is obtained, the attorney-general should proceed to charge the individuals responsible in court.Nevertheless, the decisions made by the cabinet today will not affect the mobilisation process under the LCS Recovery Plan that was agreed on April 20."
+            },
+            {
+              "text": "The government is committed to continuing this project due to its importance to the country's defence and to cater for the needs of our naval forces.On behalf of the government, I give assurance that the investigation into this matter will be carried out transparently and that the government will not protect anyone involved,\"\""
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "[...] \"The cabinet has agreed to urge the MACC to speed up the probe and if strong evidence is obtained, the attorney-general should proceed to charge the individuals responsible in court.Nevertheless, the decisions made by the cabinet today will not affect the mobilisation process under the LCS Recovery Plan that was agreed on April 20. The government is committed to continuing this project due to its importance to the country's defence and to cater for the needs of our naval forces.On behalf of the government, I give assurance that the investigation into this matter will be carried out transparently and that the government will not protect anyone involved,\"",
+          "first": "Ismail Sabri",
+          "last": "Yaakob",
+          "template": "quote"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.nst.com.my/news/nation/2022/08/821176/ismail-sabri-says-govt-agrees-lcs-documents-be-declassified-tells-macc",
+          "work": "New Straits Times",
+          "date": "10 August 2022",
+          "access-date": "15 August 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
       "title": "Controversies and issues",
       "depth": 0
     },

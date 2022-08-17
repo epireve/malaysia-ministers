@@ -2702,7 +2702,7 @@
       "lists": [
         [
           {
-            "text": "Brunei:",
+            "text": "Brunei :",
             "links": [
               {
                 "text": "Brunei",
@@ -2722,6 +2722,25 @@
           },
           {
             "text": "Sultan's Golden Jubilee Medal (2017).jpg Sultan of Brunei Golden Jubilee Medal (5 October 2017)"
+          },
+          {
+            "text": "🇹🇷 Turkey :",
+            "links": [
+              {
+                "text": "Turkey",
+                "type": "internal",
+                "page": "turkey"
+              }
+            ]
+          },
+          {
+            "text": "Order of the State of Republic of Turkey.png Collar of the Order of the State of Republic of Turkey (16 August 2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of the State of Republic of Turkey"
+              }
+            ]
           }
         ]
       ],
@@ -2743,6 +2762,15 @@
           "date": "7 October 2017",
           "work": "New Straits Times",
           "access-date": "16 July 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bernama.com/en/general/news.php?id=2111686",
+          "title": "Agong conferred Turkiye's highest award by Erdogan",
+          "date": "17 August 2022",
+          "work": "Bernama",
+          "access-date": "17 August 2022",
           "template": "citation",
           "type": "web"
         }

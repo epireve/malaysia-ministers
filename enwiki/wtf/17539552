@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Tengku Zafrul bin Tengku Abdul Aziz (born 25 June 1973) is a Malaysian banker, investor and politician who has served as Minister of Finance for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
+              "text": "Tengku Zafrul bin Tengku Abdul Aziz (born 25 June 1973) is a Malaysian politician and investor who has served as Minister of Finance for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
               "links": [
                 {
                   "text": "Malaysian",
@@ -34,19 +34,14 @@
                   "page": "Malaysians"
                 },
                 {
-                  "text": "banker",
+                  "text": "politician",
                   "type": "internal",
-                  "page": "banker"
+                  "page": "politician"
                 },
                 {
                   "text": "investor",
                   "type": "internal",
                   "page": "investor"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
                 },
                 {
                   "text": "Minister of Finance",
@@ -171,7 +166,7 @@
       ],
       "templates": [
         {
-          "description": "Malaysian banker, investor and politician",
+          "description": "Malaysian politician and investor",
           "template": "short description"
         },
         {

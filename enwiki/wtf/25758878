@@ -1026,7 +1026,12 @@
                   "type": "internal",
                   "page": "Tanjong Karang (federal constituency)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "P87 Tanjong Karang, Selangor"
+                ]
+              }
             },
             "col3": {
               "text": ""
@@ -1098,7 +1103,12 @@
                   "type": "internal",
                   "page": "Tanjong Karang (federal constituency)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "P87 Tanjong Karang, Selangor"
+                ]
+              }
             },
             "col3": {
               "text": ""
@@ -1170,7 +1180,12 @@
                   "type": "internal",
                   "page": "Tanjong Karang (federal constituency)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "P95 Tanjong Karang, Selangor"
+                ]
+              }
             },
             "col3": {
               "text": ""
@@ -1242,7 +1257,12 @@
                   "type": "internal",
                   "page": "Tanjong Karang (federal constituency)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "P95 Tanjong Karang, Selangor"
+                ]
+              }
             },
             "col3": {
               "text": ""
@@ -1318,7 +1338,12 @@
                   "type": "internal",
                   "page": "Tanjong Karang (federal constituency)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "P95 Tanjong Karang, Selangor"
+                ]
+              }
             },
             "col3": {
               "text": ""
@@ -1418,7 +1443,12 @@
                   "type": "internal",
                   "page": "Tanjong Karang (federal constituency)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "P95 Tanjong Karang, Selangor"
+                ]
+              }
             },
             "col8": {
               "text": "Masrun Tamsi @ Herman Tino (IND)",
@@ -1467,7 +1497,12 @@
                   "type": "internal",
                   "page": "Tanjong Karang (federal constituency)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "P95 Tanjong Karang, Selangor"
+                ]
+              }
             },
             "col3": {
               "text": ""
@@ -1567,7 +1602,12 @@
                   "type": "internal",
                   "page": "Tanjong Karang (federal constituency)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "P95 Tanjong Karang, Selangor"
+                ]
+              }
             },
             "col8": {
               "text": "Nor Az Azlan Ahmad (PAS)",

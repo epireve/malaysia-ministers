@@ -2777,6 +2777,54 @@
       ]
     },
     {
+      "title": "Honorary degrees",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "🇹🇷 Turkey :",
+            "links": [
+              {
+                "text": "Turkey",
+                "type": "internal",
+                "page": "turkey"
+              }
+            ]
+          },
+          {
+            "text": "Honorary Ph.D. degree in Political Science and International Relations from Marmara University (2022)",
+            "links": [
+              {
+                "text": "Ph.D.",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              },
+              {
+                "type": "internal",
+                "page": "Marmara University"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://www.nst.com.my/news/nation/2022/08/823925/agong-conferred-honorary-doctorate-turkeys-marmara-university",
+          "title": "Agong conferred honorary doctorate by Turkey's Marmara University",
+          "date": "20 August 2022",
+          "work": "New Straits Times",
+          "access-date": "20 August 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
       "title": "Places named after him",
       "depth": 1,
       "paragraphs": [

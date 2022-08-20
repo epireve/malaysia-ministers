@@ -348,13 +348,6 @@
         },
         {
           "list": [
-            "Najib Razak",
-            "Ahmad Zahid Hamidi (acting)"
-          ],
-          "template": "unbulleted list"
-        },
-        {
-          "list": [
             "Sirajuddin",
             "Mizan Zainal Abidin"
           ],
@@ -383,15 +376,22 @@
         },
         {
           "list": [
-            "Mahathir Mohamad",
-            "Abdullah Ahmad Badawi"
+            "Ja'afar",
+            "Salahuddin"
           ],
           "template": "unbulleted list"
         },
         {
           "list": [
-            "Ja'afar",
-            "Salahuddin"
+            "Najib Razak",
+            "Ahmad Zahid Hamidi (acting)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Mahathir Mohamad",
+            "Abdullah Ahmad Badawi"
           ],
           "template": "unbulleted list"
         },
@@ -500,7 +500,7 @@
             ]
           },
           "term_start": {
-            "text": "29 August 2021"
+            "text": "30 August 2021"
           },
           "monarch": {
             "text": "Abdullah",
@@ -522,10 +522,10 @@
             ]
           },
           "predecessor": {
-            "text": "himself",
+            "text": "Himself",
             "formatting": {
               "italic": [
-                "himself"
+                "Himself"
               ]
             }
           },
@@ -551,10 +551,10 @@
             "text": "Ismail Sabri Yaakob"
           },
           "successor1": {
-            "text": "himself",
+            "text": "Himself",
             "formatting": {
               "italic": [
-                "himself"
+                "Himself"
               ]
             }
           },
@@ -569,7 +569,7 @@
             ]
           },
           "term_start2": {
-            "text": "29 August 2021"
+            "text": "30 August 2021"
           },
           "monarch2": {
             "text": "Abdullah"
@@ -584,7 +584,7 @@
             "text": "16 May 2013"
           },
           "term_end3": {
-            "text": "9 May 2018"
+            "text": "10 May 2018"
           },
           "monarch3": {
             "text": "Abdul Halim\n\nMuhammad V"
@@ -617,33 +617,6 @@
             ]
           },
           "office4": {
-            "text": "Treasurer General of Barisan Nasional",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Barisan Nasional"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "23 October 2020"
-          },
-          "1blankname4": {
-            "text": "Chairman"
-          },
-          "1namedata4": {
-            "text": "Ahmad Zahid Hamidi"
-          },
-          "predecessor4": {
-            "text": "Tengku Adnan Tengku Mansor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tengku Adnan Tengku Mansor"
-              }
-            ]
-          },
-          "office5": {
             "text": "Minister of Foreign Affairs",
             "links": [
               {
@@ -653,19 +626,19 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start4": {
             "text": "10 March 2020"
           },
-          "term_end5": {
+          "term_end4": {
             "text": "16 August 2021"
           },
-          "monarch5": {
+          "monarch4": {
             "text": "Abdullah"
           },
-          "primeminister5": {
+          "primeminister4": {
             "text": "Muhyiddin Yassin"
           },
-          "predecessor5": {
+          "predecessor4": {
             "text": "Saifuddin Abdullah",
             "links": [
               {
@@ -674,54 +647,10 @@
               }
             ]
           },
-          "successor5": {
+          "successor4": {
             "text": "Saifuddin Abdullah"
           },
-          "office6": {
-            "text": "Deputy President of the United Malays National Organisation",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United Malays National Organisation"
-              }
-            ]
-          },
-          "status6": {
-            "text": "Acting"
-          },
-          "term_start6": {
-            "text": "12 May 2018"
-          },
-          "term_end6": {
-            "text": "30 June 2018"
-          },
-          "president6": {
-            "text": "Ahmad Zahid Hamidi (acting)",
-            "formatting": {
-              "italic": [
-                "acting"
-              ]
-            }
-          },
-          "predecessor6": {
-            "text": "Ahmad Zahid Hamidi (acting)",
-            "formatting": {
-              "italic": [
-                "acting"
-              ]
-            }
-          },
-          "successor6": {
-            "text": "Mohamad Hasan",
-            "links": [
-              {
-                "text": "Mohamad Hasan",
-                "type": "internal",
-                "page": "Mohamad Hasan (politician)"
-              }
-            ]
-          },
-          "office7": {
+          "office5": {
             "text": "Minister with Special Functions",
             "links": [
               {
@@ -731,35 +660,35 @@
               }
             ]
           },
-          "term_start7": {
+          "term_start5": {
             "text": "12 April 2017"
           },
-          "term_end7": {
-            "text": "9 May 2018"
+          "term_end5": {
+            "text": "10 May 2018"
           },
-          "monarch7": {
+          "monarch5": {
             "text": "Muhammad V"
           },
-          "primeminister7": {
+          "primeminister5": {
             "text": "Najib Razak"
           },
-          "predecessor7": {
-            "text": "Office restored",
+          "predecessor5": {
+            "text": "Position restored",
             "formatting": {
               "italic": [
-                "Office restored"
+                "Position restored"
               ]
             }
           },
-          "successor7": {
-            "text": "Office vacated",
+          "successor5": {
+            "text": "Position vacated",
             "formatting": {
               "italic": [
-                "Office vacated"
+                "Position vacated"
               ]
             }
           },
-          "office8": {
+          "office6": {
             "text": "Minister of Transport",
             "links": [
               {
@@ -769,22 +698,22 @@
               }
             ]
           },
-          "status8": {
+          "status6": {
             "text": "Acting"
           },
-          "term_start8": {
+          "term_start6": {
             "text": "16 May 2013"
           },
-          "term_end8": {
+          "term_end6": {
             "text": "24 June 2014"
           },
-          "monarch8": {
+          "monarch6": {
             "text": "Abdul Halim"
           },
-          "primeminister8": {
+          "primeminister6": {
             "text": "Najib Razak"
           },
-          "predecessor8": {
+          "predecessor6": {
             "text": "Kong Cho Ha",
             "links": [
               {
@@ -793,7 +722,7 @@
               }
             ]
           },
-          "successor8": {
+          "successor6": {
             "text": "Liow Tiong Lai",
             "links": [
               {
@@ -802,7 +731,7 @@
               }
             ]
           },
-          "office9": {
+          "office7": {
             "text": "Minister of Home Affairs",
             "links": [
               {
@@ -812,19 +741,19 @@
               }
             ]
           },
-          "term_start9": {
+          "term_start7": {
             "text": "10 April 2009"
           },
-          "term_end9": {
+          "term_end7": {
             "text": "20 April 2013"
           },
-          "monarch9": {
+          "monarch7": {
             "text": "Mizan Zainal Abidin\n\nAbdul Halim"
           },
-          "primeminister9": {
+          "primeminister7": {
             "text": "Najib Razak"
           },
-          "predecessor9": {
+          "predecessor7": {
             "text": "Syed Hamid Albar",
             "links": [
               {
@@ -833,46 +762,10 @@
               }
             ]
           },
-          "successor9": {
+          "successor7": {
             "text": "Ahmad Zahid Hamidi"
           },
-          "office10": {
-            "text": "Vice President of the United Malays National Organisation",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United Malays National Organisation"
-              }
-            ]
-          },
-          "term_start10": {
-            "text": "26 March 2009"
-          },
-          "term_end10": {
-            "text": "30 June 2018"
-          },
-          "president10": {
-            "text": "Najib Razak\n\nAhmad Zahid Hamidi (acting)"
-          },
-          "predecessor10": {
-            "text": "Mohd Ali Rustam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohd Ali Rustam"
-              }
-            ]
-          },
-          "successor10": {
-            "text": "Mohamed Khaled Nordin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohamed Khaled Nordin"
-              }
-            ]
-          },
-          "office11": {
+          "office8": {
             "text": "Minister of Education",
             "links": [
               {
@@ -882,19 +775,19 @@
               }
             ]
           },
-          "term_start11": {
+          "term_start8": {
             "text": "27 March 2004"
           },
-          "term_end11": {
+          "term_end8": {
             "text": "10 April 2009"
           },
-          "monarch11": {
+          "monarch8": {
             "text": "Sirajuddin\n\nMizan Zainal Abidin"
           },
-          "primeminister11": {
+          "primeminister8": {
             "text": "Abdullah Ahmad Badawi\n\nNajib Razak"
           },
-          "predecessor11": {
+          "predecessor8": {
             "text": "Musa Mohamad",
             "links": [
               {
@@ -903,59 +796,10 @@
               }
             ]
           },
-          "successor11": {
+          "successor8": {
             "text": "Muhyiddin Yassin"
           },
-          "parliament12": {
-            "text": "Malaysian"
-          },
-          "constituency_mp12": {
-            "text": "Sembrong",
-            "links": [
-              {
-                "text": "Sembrong",
-                "type": "internal",
-                "page": "Sembrong (federal constituency)"
-              }
-            ]
-          },
-          "term_start12": {
-            "text": "21 March 2004"
-          },
-          "majority12": {
-            "text": "16,978 (2004) 11,570 (2008) 10,631 (2013) 6,662 (2018)",
-            "links": [
-              {
-                "text": "2004",
-                "type": "internal",
-                "page": "2004 Malaysian general election"
-              },
-              {
-                "text": "2008",
-                "type": "internal",
-                "page": "2008 Malaysian general election"
-              },
-              {
-                "text": "2013",
-                "type": "internal",
-                "page": "2013 Malaysian general election"
-              },
-              {
-                "text": "2018",
-                "type": "internal",
-                "page": "2018 Malaysian general election"
-              }
-            ]
-          },
-          "predecessor12": {
-            "text": "Constituency established",
-            "formatting": {
-              "italic": [
-                "Constituency established"
-              ]
-            }
-          },
-          "office13": {
+          "office9": {
             "text": "Minister of Youth and Sports",
             "links": [
               {
@@ -965,27 +809,177 @@
               }
             ]
           },
-          "term_start13": {
+          "term_start9": {
             "text": "15 December 1999"
           },
-          "term_end13": {
+          "term_end9": {
             "text": "26 March 2004"
           },
-          "monarch13": {
+          "monarch9": {
             "text": "Salahuddin\n\nSirajuddin"
           },
-          "primeminister13": {
+          "primeminister9": {
             "text": "Mahathir Mohamad\n\nAbdullah Ahmad Badawi"
           },
-          "predecessor13": {
+          "predecessor9": {
             "text": "Muhyiddin Yassin"
           },
-          "successor13": {
+          "successor9": {
             "text": "Azalina Othman Said",
             "links": [
               {
                 "type": "internal",
                 "page": "Azalina Othman Said"
+              }
+            ]
+          },
+          "office10": {
+            "text": "Deputy Minister of Primary Industries",
+            "links": [
+              {
+                "text": "Deputy Minister of Primary Industries",
+                "type": "internal",
+                "page": "Ministers of Plantation Industries and Commodities (Malaysia)"
+              }
+            ]
+          },
+          "term_start10": {
+            "text": "12 November 1996"
+          },
+          "term_end10": {
+            "text": "14 December 1999"
+          },
+          "monarch10": {
+            "text": "Ja'afar\n\nSalahuddin"
+          },
+          "primeminister10": {
+            "text": "Mahathir Mohamad"
+          },
+          "minister10": {
+            "text": "Lim Keng Yaik",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lim Keng Yaik"
+              }
+            ]
+          },
+          "predecessor10": {
+            "text": "Siti Zainaboon Abu Bakar"
+          },
+          "successor10": {
+            "text": "Anifah Aman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anifah Aman"
+              }
+            ]
+          },
+          "office11": {
+            "text": "Treasurer General of the Barisan Nasional",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barisan Nasional"
+              }
+            ]
+          },
+          "term_start11": {
+            "text": "23 October 2020"
+          },
+          "1blankname11": {
+            "text": "Chairman"
+          },
+          "1namedata11": {
+            "text": "Ahmad Zahid Hamidi"
+          },
+          "predecessor11": {
+            "text": "Tengku Adnan Tengku Mansor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tengku Adnan Tengku Mansor"
+              }
+            ]
+          },
+          "office12": {
+            "text": "Deputy President of the United Malays National Organisation",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Malays National Organisation"
+              }
+            ]
+          },
+          "status12": {
+            "text": "Acting"
+          },
+          "term_start12": {
+            "text": "12 May 2018"
+          },
+          "term_end12": {
+            "text": "30 June 2018"
+          },
+          "president12": {
+            "text": "Ahmad Zahid Hamidi (acting)",
+            "formatting": {
+              "italic": [
+                "acting"
+              ]
+            }
+          },
+          "predecessor12": {
+            "text": "Ahmad Zahid Hamidi (acting)",
+            "formatting": {
+              "italic": [
+                "acting"
+              ]
+            }
+          },
+          "successor12": {
+            "text": "Mohamad Hasan",
+            "links": [
+              {
+                "text": "Mohamad Hasan",
+                "type": "internal",
+                "page": "Mohamad Hasan (politician)"
+              }
+            ]
+          },
+          "office13": {
+            "text": "Vice President of the United Malays National Organisation",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Malays National Organisation"
+              }
+            ]
+          },
+          "term_start13": {
+            "text": "26 March 2009"
+          },
+          "term_end13": {
+            "text": "30 June 2018"
+          },
+          "president13": {
+            "text": "Najib Razak\n\nAhmad Zahid Hamidi (acting)"
+          },
+          "predecessor13": {
+            "text": "Mohd Ali Rustam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohd Ali Rustam"
+              }
+            ]
+          },
+          "successor13": {
+            "text": "Mohamed Khaled Nordin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamed Khaled Nordin"
               }
             ]
           },
@@ -1021,48 +1015,54 @@
               }
             ]
           },
-          "office15": {
-            "text": "Deputy Minister of Primary Industries",
+          "parliament15": {
+            "text": "Malaysian"
+          },
+          "constituency_mp15": {
+            "text": "Sembrong",
             "links": [
               {
-                "text": "Deputy Minister of Primary Industries",
+                "text": "Sembrong",
                 "type": "internal",
-                "page": "Ministers of Plantation Industries and Commodities (Malaysia)"
+                "page": "Sembrong (federal constituency)"
               }
             ]
           },
           "term_start15": {
-            "text": "12 November 1996"
+            "text": "21 March 2004"
           },
-          "term_end15": {
-            "text": "14 December 1999"
-          },
-          "monarch15": {
-            "text": "Ja'afar\n\nSalahuddin"
-          },
-          "primeminister15": {
-            "text": "Mahathir Mohamad"
-          },
-          "minister15": {
-            "text": "Lim Keng Yaik",
+          "majority15": {
+            "text": "16,978 (2004) 11,570 (2008) 10,631 (2013) 6,662 (2018)",
             "links": [
               {
+                "text": "2004",
                 "type": "internal",
-                "page": "Lim Keng Yaik"
+                "page": "2004 Malaysian general election"
+              },
+              {
+                "text": "2008",
+                "type": "internal",
+                "page": "2008 Malaysian general election"
+              },
+              {
+                "text": "2013",
+                "type": "internal",
+                "page": "2013 Malaysian general election"
+              },
+              {
+                "text": "2018",
+                "type": "internal",
+                "page": "2018 Malaysian general election"
               }
             ]
           },
           "predecessor15": {
-            "text": "Siti Zainaboon Abu Bakar"
-          },
-          "successor15": {
-            "text": "Anifah Aman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anifah Aman"
-              }
-            ]
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
           },
           "parliament16": {
             "text": "Malaysian"
@@ -1078,7 +1078,7 @@
             ]
           },
           "term_start16": {
-            "text": "24 April 1995"
+            "text": "25 April 1995"
           },
           "term_end16": {
             "text": "21 March 2004"
@@ -1099,10 +1099,10 @@
             ]
           },
           "predecessor16": {
-            "text": "Constituency established",
+            "text": "Position established",
             "formatting": {
               "italic": [
-                "Constituency established"
+                "Position established"
               ]
             }
           },

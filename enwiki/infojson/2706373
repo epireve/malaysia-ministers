@@ -12,12 +12,12 @@
       ],
       "stated_as": "Tenggara"
     },
-    "P580": "1995-04-24",
+    "P580": "1995-04-25",
     "P1365": {
       "links": [
 
       ],
-      "stated_as": "Constituency established"
+      "stated_as": "Position established"
     },
     "P582": "2004-03-21",
     "P1366": {
@@ -111,7 +111,7 @@
       "links": [
 
       ],
-      "stated_as": "Constituency established"
+      "stated_as": "Position established"
     }
   },
   {
@@ -194,7 +194,7 @@
       ],
       "stated_as": "Ahmad Zahid Hamidi"
     },
-    "P582": "2018-05-09",
+    "P582": "2018-05-10",
     "P1366": {
       "links": [
         "Mohamad Sabu"
@@ -236,14 +236,14 @@
       "links": [
 
       ],
-      "stated_as": "Office restored"
+      "stated_as": "Position restored"
     },
-    "P582": "2018-05-09",
+    "P582": "2018-05-10",
     "P1366": {
       "links": [
 
       ],
-      "stated_as": "Office vacated"
+      "stated_as": "Position vacated"
     }
   },
   {
@@ -295,7 +295,7 @@
       "links": [
         "Barisan Nasional"
       ],
-      "stated_as": "Treasurer General of Barisan Nasional"
+      "stated_as": "Treasurer General of the Barisan Nasional"
     },
     "P580": "2020-10-23",
     "P1365": {
@@ -324,7 +324,7 @@
       "links": [
 
       ],
-      "stated_as": "himself"
+      "stated_as": "Himself"
     }
   },
   {
@@ -334,7 +334,7 @@
       ],
       "stated_as": "Minister of Defence"
     },
-    "P580": "2021-08-29",
+    "P580": "2021-08-30",
     "P1365": {
       "links": [
 
@@ -349,12 +349,12 @@
       ],
       "stated_as": "Senior Minister of Security Cluster"
     },
-    "P580": "2021-08-29",
+    "P580": "2021-08-30",
     "P1365": {
       "links": [
 
       ],
-      "stated_as": "himself"
+      "stated_as": "Himself"
     }
   }
 ]

@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Tuan Ibrahim bin Tuan Man (Jawi: توان إبراهيم بن توان من) is a Malaysian politician who has served as the Minister of Environment and Water for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since August 2021.",
+              "text": "Tuan Ibrahim bin Tuan Man (Jawi: توان إبراهيم بن توان من) is a Malaysian politician who has served as the Minister of Environment and Water for the second term in the Barisan Nasional (BN) administration under Prime Minister Ismail Sabri Yaakob since March 2020.",
               "links": [
                 {
                   "text": "Jawi",
@@ -182,10 +182,10 @@
             ]
           },
           "image": {
-            "text": "Menteri Alam Sekitar dan Air 2020.jpg"
+            "text": "Dato' Sri Tuan Ibrahim Tuan Man 00.jpg"
           },
           "caption": {
-            "text": "Tuan Ibrahim in 2019"
+            "text": "Dato' Sri Tuan Ibrahim Tuan Man"
           },
           "birth_name": {
             "text": "Tuan Ibrahim bin Tuan Man"
@@ -264,7 +264,7 @@
             "text": "Ministerial roles"
           },
           "subterm1": {
-            "text": "2020–"
+            "text": "2020–NOW"
           },
           "suboffice1": {
             "text": "Minister of Environment and Water",
@@ -307,7 +307,7 @@
             ]
           },
           "subterm5": {
-            "text": "2018–2020"
+            "text": "2018–NOW"
           },
           "suboffice5": {
             "text": "Malaysian Islamic Party",
@@ -319,7 +319,7 @@
             ]
           },
           "subterm6": {
-            "text": "2020–"
+            "text": "2020–NOW"
           },
           "suboffice6": {
             "text": "Perikatan Nasional",
@@ -398,9 +398,6 @@
           },
           "spouse": {
             "text": "Norrul Ain Md Hashim"
-          },
-          "website": {
-            "text": "http://tuanibrahim.blogspot.com/"
           }
         }
       ]

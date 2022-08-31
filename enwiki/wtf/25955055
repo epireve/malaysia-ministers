@@ -1479,6 +1479,32 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is a vice-president of the Asian Football Confederation (AFC) executive committee and president of the Asian Hockey Federation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Asian Football Confederation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Asian Hockey Federation"
+                }
+              ]
+            },
+            {
+              "text": "He is also the Honorary Member of International Hockey Federation (FIH).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Hockey Federation"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -1501,8 +1527,13 @@
         {
           "sentences": [
             {
-              "text": "He first married at the Sultan Abu Bakar State Mosque, Johor Bahru, 6 March 1986 to the third daughter of Sultan Iskandar of Johor with his first wife, Enche' Besar Kalsom binti Abdullah (née Josephine Ruby Trevorrow), Tunku Azizah Aminah Maimunah Iskandariah binti Almarhum Al-Mutawakkil Alallah Sultan Iskandar Al-Haj.",
+              "text": "His first marriage was to Tunku Azizah Aminah Maimunah Iskandariah binti Almarhum Al-Mutawakkil Alallah Sultan Iskandar Al-Haj, at the Sultan Abu Bakar State Mosque, Johor Bahru, on 6 March 1986.",
               "links": [
+                {
+                  "text": "Tunku Azizah",
+                  "type": "internal",
+                  "page": "Tunku Azizah Aminah Maimunah Iskandariah"
+                },
                 {
                   "type": "internal",
                   "page": "Sultan Abu Bakar State Mosque"
@@ -1510,25 +1541,26 @@
                 {
                   "type": "internal",
                   "page": "Johor Bahru"
-                },
-                {
-                  "text": "Sultan Iskandar of Johor",
-                  "type": "internal",
-                  "page": "Iskandar of Johor"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tunku Azizah Aminah Maimunah Iskandariah"
                 }
               ],
               "formatting": {
                 "bold": [
-                  "Tunku Azizah Aminah Maimunah Iskandariah"
+                  "Tunku Azizah"
                 ]
               }
             },
             {
-              "text": "She has been created Tengku Puan (title for Crown Princess) in addition to her Johor title of Paduka Puteri in 1986.",
+              "text": "She is the third daughter of Sultan Iskandar of Johor and his first wife, Enche' Besar Kalsom binti Abdullah (née Josephine Ruby Trevorrow).",
+              "links": [
+                {
+                  "text": "Sultan Iskandar of Johor",
+                  "type": "internal",
+                  "page": "Iskandar of Johor"
+                }
+              ]
+            },
+            {
+              "text": "Azizah has now thus been titled Tengku Puan (title for Crown Princess) in addition to her Johor title of Paduka Puteri in 1986.",
               "formatting": {
                 "italic": [
                   "Tengku Puan",
@@ -1553,9 +1585,10 @@
         {
           "sentences": [
             {
-              "text": "He married, secondly, in 1991 Julia Rais (born at Kota Bharu, Kelantan, February 19, 1971), a former actress and daughter of Abdul Rais, in a private ceremony at Fraser's Hill.",
+              "text": "His second marriage was in 1991 to Julia Rais (born at Kota Bharu, Kelantan, February 19, 1971), a former actress and daughter of Abdul Rais, in a private ceremony at Fraser's Hill in 1991.",
               "links": [
                 {
+                  "text": "'''Julia Rais'''",
                   "type": "internal",
                   "page": "Julia Rais"
                 },
@@ -1563,7 +1596,12 @@
                   "type": "internal",
                   "page": "Fraser's Hill"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Julia Rais"
+                ]
+              }
             },
             {
               "text": "They have three daughters together."
@@ -1656,7 +1694,7 @@
             }
           },
           {
-            "text": "b) Tengku Hassanal Ibrahim Alam Shah, the Crown Prince and Regent of Pahang, (shortly Tengku Hassanal) born at Tengku Ampuan Afzan Hospital, Kuantan on September 17, 1995, son of Tunku Azizah",
+            "text": "b) Tengku Hassanal Ibrahim Alam Shah, the Crown Prince and Regent of Pahang, (Tengku Hassanal) born at Tengku Ampuan Afzan Hospital, Kuantan on September 17, 1995, son of Tunku Azizah",
             "links": [
               {
                 "type": "internal",
@@ -1678,7 +1716,7 @@
             }
           },
           {
-            "text": "c) Tengku Muhammad Iskandar Riayatuddin Shah, the Tengku Arif Bendahara (shortly Tengku Muhammad), born on August 3, 1997, son of Tunku Azizah",
+            "text": "c) Tengku Muhammad Iskandar Riayatuddin Shah, the Tengku Arif Bendahara (Tengku Muhammad), born on August 3, 1997, son of Tunku Azizah",
             "formatting": {
               "bold": [
                 "Muhammad Iskandar Riayatuddin Shah"
@@ -1690,7 +1728,7 @@
             }
           },
           {
-            "text": "d) Tengku Ahmad Ismail Muadzam Shah, the Tengku Panglima Muda (shortly Tengku Ahmad), born on September 11, 2000, twin with his sister Tengku Afzan, son of Tunku Azizah",
+            "text": "d) Tengku Ahmad Ismail Muadzam Shah, the Tengku Panglima Muda (Tengku Ahmad), born on September 11, 2000, a twin with his sister Tengku Puteri Iman Afzan. He is a son of Tunku Azizah",
             "formatting": {
               "bold": [
                 "Ahmad Ismail Muadzam Shah"
@@ -1752,7 +1790,7 @@
       "lists": [
         [
           {
-            "text": "a) Tengku Puteri Iman Afzan, daughter of Julia Abdul Rais (born on November 11, 1992 at Pantai Hospital Kuala Lumpur. On 24 August 2018, She married Tengku Abu Bakar Ahmad Bin Almarhum Tengku Arif Bendahara Tengku Abdullah. The couple's first child, a son named Tengku Zayn Edin Shah, was born on 23 July 2019. The couple's second child, a daughter named Tengku Aleya Norlini, was born on 2 February 2022.",
+            "text": "a) Tengku Puteri Iman Afzan, daughter of Julia Abdul Rais (born on November 11, 1992 at Pantai Hospital Kuala Lumpur. On 24 August 2018, She married Tengku Abu Bakar Ahmad Bin Almarhum Tengku Arif Bendahara Tengku Abdullah. The couple's first child, a son named Tengku Zayn Edin Shah, was born on 23 July 2019. The couple's second child, a daughter named Tengku Aleya Norlini, was born on 2 February 2022",
             "links": [
               {
                 "type": "internal",
@@ -1769,7 +1807,7 @@
             }
           },
           {
-            "text": "b) Tengku Puteri Ilisha Ameera, daughter of Julia Abdul Rais (born on October 1, 1993 Pantai Hospital Kuala Lumpur.",
+            "text": "b) Tengku Puteri Ilisha Ameera, daughter of Julia Abdul Rais (born on October 1, 1993 Pantai Hospital Kuala Lumpur",
             "formatting": {
               "bold": [
                 "Ilisha Ameera"
@@ -1777,7 +1815,7 @@
             }
           },
           {
-            "text": "c) Tengku Puteri Ilyana, daughter of Julia Abdul Rais, (born on April 20, 1997 at Gleneagles Hospital Kuala Lumpur.",
+            "text": "c) Tengku Puteri Ilyana, daughter of Julia Abdul Rais, (born on April 20, 1997 at Gleneagles Hospital Kuala Lumpur",
             "formatting": {
               "bold": [
                 "Ilyana"
@@ -1785,7 +1823,7 @@
             }
           },
           {
-            "text": "d) Tengku Puteri Afzan Aminah Hafidzatu’llah (shortly Tengku Afzan), born on September 11, 2000, twin with her brother Tengku Ahmad, daughter of Tunku Azizah.",
+            "text": "d) Tengku Puteri Afzan Aminah Hafidzatu’llah (Tengku Afzan), born on September 11, 2000, twin with her brother Tengku Ahmad, daughter of Tunku Azizah",
             "formatting": {
               "bold": [
                 "Afzan Aminah Hafidzatu’llah"
@@ -1796,7 +1834,7 @@
             }
           },
           {
-            "text": "e) Tengku Puteri Jihan Azizah Athiyatullah (shortly Tengku Jihan), born on April 27, 2002, daughter of Tunku Azizah).",
+            "text": "e) Tengku Puteri Jihan Azizah Athiyatullah (Tengku Jihan), born on April 27, 2002, daughter of Tunku Azizah)",
             "formatting": {
               "bold": [
                 "Jihan Azizah Athiyatullah"
@@ -1816,7 +1854,7 @@
         {
           "sentences": [
             {
-              "text": "Al-Sultan Abdullah also adopted a son before the birth of his own:"
+              "text": "Abdullah also adopted a son before the birth of his own:"
             }
           ]
         },
@@ -1868,38 +1906,6 @@
             }
           }
         ]
-      ]
-    },
-    {
-      "title": "Patron",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "He is a vice-president of the Asian Football Confederation (AFC) executive committee and president of the Asian Hockey Federation.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Asian Football Confederation"
-                },
-                {
-                  "type": "internal",
-                  "page": "Asian Hockey Federation"
-                }
-              ]
-            },
-            {
-              "text": "He is also the Honorary Member of International Hockey Federation (FIH).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "International Hockey Federation"
-                }
-              ]
-            }
-          ]
-        }
       ]
     },
     {

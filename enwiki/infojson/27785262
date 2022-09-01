@@ -1,0 +1,68 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister in the Prime Minister's Department"
+      ],
+      "stated_as": "Minister in the Prime Minister's Department\n(Religious Affairs)"
+    },
+    "P580": "2009-04-10",
+    "P1365": {
+      "links": [
+        "Ahmad Zahid Hamidi"
+      ],
+      "stated_as": "Ahmad Zahid Hamidi"
+    },
+    "P582": "2018-05-09",
+    "P1366": {
+      "links": [
+        "Mujahid Yusof Rawa"
+      ],
+      "stated_as": "Mujahid Yusof Rawa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Jerai (federal constituency)"
+      ],
+      "stated_as": "Jerai"
+    },
+    "P580": "2013-05-05",
+    "P1365": {
+      "links": [
+        "Mohd Firdaus Jaafar",
+        "Pan-Malaysian Islamic Party"
+      ],
+      "stated_as": "Mohd Firdaus Jaafar (PAS)"
+    },
+    "P582": "2018-05-09",
+    "P1366": {
+      "links": [
+        "Pan-Malaysian Islamic Party"
+      ],
+      "stated_as": "Sabri Azit (PAS)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chairman of Ex-Serviceman Affairs Corporation"
+    },
+    "P580": "2021-02-08",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Abdul Aziz Ibrahim"
+    }
+  }
+]

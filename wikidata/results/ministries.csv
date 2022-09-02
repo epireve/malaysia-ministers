@@ -1,60 +1,62 @@
-item,itemLabel,minister,ministerLabel
-Q12688329,Department of Environment,,
-Q7243278,Malaysian Prime Minister's Department,Q862559,Prime Minister of Malaysia
-Q7243278,Malaysian Prime Minister's Department,Q5261073,Deputy Prime Minister of Malaysia
-Q7243278,Malaysian Prime Minister's Department,Q24949267,Minister in the Prime Minister's Department
-Q22222773,Ministry of Agriculture and Agro Based Industry,Q30601423,Minister of Agriculture and Food Industries
-Q22222773,Ministry of Agriculture and Agro Based Industry,Q113457165,Q113457165
-Q12689905,Ministry of Communications and Multimedia,Q30601366,Minister of Communications and Multimedia
-Q12689905,Ministry of Communications and Multimedia,Q113455727,Q113455727
-Q4294501,Ministry of Defence,Q20449744,Minister of Defence
-Q4294501,Ministry of Defence,Q113455735,Q113455735
-Q12689906,Ministry of Domestic Trade and Consumer Affairs,Q30601373,"Minister of Domestic Trade, Co-operatives and Consumerism"
-Q12689906,Ministry of Domestic Trade and Consumer Affairs,Q113455783,Q113455783
-Q61113253,Ministry of Economic Affairs (Malaysia),,
-Q3816079,Ministry of Education,Q30601368,Minister of Education
-Q3816079,Ministry of Education,Q113457103,Q113457103
-Q3816079,Ministry of Education,Q113457212,Q113457212
-Q15835288,Ministry of Education of Malaysia,,
-Q6867411,Ministry of Energy and Natural Resources,Q30601398,Minister of Natural Resources and Environment
-Q6867411,Ministry of Energy and Natural Resources,Q113457162,Q113457162
-Q7361923,Ministry of Entrepreneurship Development and Co-operatives,Q110132074,Q110132074
-Q7361923,Ministry of Entrepreneurship Development and Co-operatives,Q113455765,Q113455765
-Q106594790,Ministry of Environment and Water,Q106372248,Minister of Environment and Water
-Q106594790,Ministry of Environment and Water,Q113452010,Q113452010
-Q7361911,Ministry of Finance,Q25241999,Minister of Finance
-Q7361911,Ministry of Finance,Q113455722,Q113455722
-Q3527309,Ministry of Foreign Affairs of Malaysia,Q30601355,Minister of Foreign Affairs
-Q3527309,Ministry of Foreign Affairs of Malaysia,Q113457118,Q113457118
-Q4294352,Ministry of Health,Q25212085,Minister of Health
-Q4294352,Ministry of Health,Q113455724,Q113455724
-Q4294352,Ministry of Health,Q113457105,Q113457105
-Q3893588,Ministry of Higher Education,Q30601405,Minister of Higher Education
-Q3893588,Ministry of Higher Education,Q113457092,Q113457092
-Q4294304,Ministry of Home Affairs,Q23939417,Minister of Home Affairs
-Q4294304,Ministry of Home Affairs,Q113457108,Q113457108
-Q6867161,Ministry of Housing and Local Government,Q30601375,"Minister of Urban Wellbeing, Housing and Local Government"
-Q6867161,Ministry of Housing and Local Government,Q113457130,Q113457130
-Q6867162,Ministry of Human Resources,Q30601427,Minister of Human Resources
-Q6867162,Ministry of Human Resources,Q113457172,Q113457172
-Q6867279,Ministry of Internal Security,,
-Q14933204,Ministry of International Trade and Industry,Q25240869,Minister of International Trade and Industry
-Q14933204,Ministry of International Trade and Industry,Q113455731,Q113455731
-Q1937202,Ministry of Plantation Industries and Commodities,Q30601432,Minister of Plantation Industries and Commodities
-Q1937202,Ministry of Plantation Industries and Commodities,Q113455795,Q113455795
-Q6867519,Ministry of Rural and Regional Development,Q30601414,Minister of Rural and Regional Development
-Q6867519,Ministry of Rural and Regional Development,Q113457121,Q113457121
-Q4294467,"Ministry of Science, Technology and Innovation",Q30601444,"Minister of Science, Technology and Innovation"
-Q4294467,"Ministry of Science, Technology and Innovation",Q113455769,Q113455769
-Q6867583,"Ministry of Tourism, Arts and Culture",Q25242001,Minister of Tourism and Culture
-Q6867583,"Ministry of Tourism, Arts and Culture",Q113457163,Q113457163
-Q6867616,Ministry of Transport,Q25242000,Minister of Transport
-Q6867616,Ministry of Transport,Q113455733,Q113455733
-Q4294580,"Ministry of Women, Family and Community Development",Q30601417,"Minister of Women, Family and Community Development"
-Q4294580,"Ministry of Women, Family and Community Development",Q113457120,Q113457120
-Q6867660,Ministry of Works,Q30601411,Minister of Works
-Q6867660,Ministry of Works,Q113457158,Q113457158
-Q6867668,Ministry of Youth and Sports,Q30601401,Minister of Youth and Sports
-Q6867668,Ministry of Youth and Sports,Q113457159,Q113457159
-Q4294779,Ministry of the Federal Territories,Q30601408,Minister of Federal Territories
-Q4294779,Ministry of the Federal Territories,Q113457128,Q113457128
+item,itemLabel,minister,ministerLabel,began,ended
+Q12688329,Department of Environment,,,,
+Q7243278,Malaysian Prime Minister's Department,Q862559,Prime Minister of Malaysia,1957,
+Q7243278,Malaysian Prime Minister's Department,Q5261073,Deputy Prime Minister of Malaysia,1957,
+Q7243278,Malaysian Prime Minister's Department,Q24949267,Minister in the Prime Minister's Department,1957,
+Q22222773,Ministry of Agriculture and Agro Based Industry,Q30601423,Minister of Agriculture and Food Industries,2004,
+Q22222773,Ministry of Agriculture and Agro Based Industry,Q113457165,Q113457165,2004,
+Q12689905,Ministry of Communications and Multimedia,Q30601366,Minister of Communications and Multimedia,2013,
+Q12689905,Ministry of Communications and Multimedia,Q113455727,Q113455727,2013,
+Q4294501,Ministry of Defence,Q20449744,Minister of Defence,1957,
+Q4294501,Ministry of Defence,Q113455735,Q113455735,1957,
+Q12689906,Ministry of Domestic Trade and Consumer Affairs,Q30601373,"Minister of Domestic Trade, Co-operatives and Consumerism",1990,
+Q12689906,Ministry of Domestic Trade and Consumer Affairs,Q113455783,Q113455783,1990,
+Q61113253,Ministry of Economic Affairs (Malaysia),,,,
+Q3816079,Ministry of Education,Q30601368,Minister of Education,1956,
+Q3816079,Ministry of Education,Q113457103,Q113457103,1956,
+Q3816079,Ministry of Education,Q113457212,Q113457212,1956,
+Q15835288,Ministry of Education of Malaysia,,,,
+Q6867411,Ministry of Energy and Natural Resources,Q30601398,Minister of Natural Resources and Environment,2004,
+Q6867411,Ministry of Energy and Natural Resources,Q113457162,Q113457162,2004,
+Q7361923,Ministry of Entrepreneurship Development and Co-operatives,Q110132074,Q110132074,,
+Q7361923,Ministry of Entrepreneurship Development and Co-operatives,Q113455765,Q113455765,,
+Q106594790,Ministry of Environment and Water,Q106372248,Minister of Environment and Water,1974,
+Q106594790,Ministry of Environment and Water,Q113452010,Q113452010,1974,
+Q7361911,Ministry of Finance,Q25241999,Minister of Finance,1957,
+Q7361911,Ministry of Finance,Q113455722,Q113455722,1957,
+Q3527309,Ministry of Foreign Affairs of Malaysia,Q30601355,Minister of Foreign Affairs,1956,
+Q3527309,Ministry of Foreign Affairs of Malaysia,Q113457118,Q113457118,1956,
+Q4294352,Ministry of Health,Q25212085,Minister of Health,1962,
+Q4294352,Ministry of Health,Q113455724,Q113455724,1962,
+Q4294352,Ministry of Health,Q113457105,Q113457105,1962,
+Q3893588,Ministry of Higher Education,Q30601405,Minister of Higher Education,2004,
+Q3893588,Ministry of Higher Education,Q113457092,Q113457092,2004,
+Q4294304,Ministry of Home Affairs,Q23939417,Minister of Home Affairs,1948,
+Q4294304,Ministry of Home Affairs,Q113457108,Q113457108,1948,
+Q6867161,Ministry of Housing and Local Government,Q30601375,"Minister of Urban Wellbeing, Housing and Local Government",,
+Q6867161,Ministry of Housing and Local Government,Q113457130,Q113457130,,
+Q6867162,Ministry of Human Resources,Q30601427,Minister of Human Resources,,
+Q6867162,Ministry of Human Resources,Q113457172,Q113457172,,
+Q6867279,Ministry of Internal Security,,,2004,
+Q14933204,Ministry of International Trade and Industry,Q25240869,Minister of International Trade and Industry,1990,
+Q14933204,Ministry of International Trade and Industry,Q113455731,Q113455731,1990,
+Q1937202,Ministry of Plantation Industries and Commodities,Q30601432,Minister of Plantation Industries and Commodities,2004,
+Q1937202,Ministry of Plantation Industries and Commodities,Q113455795,Q113455795,2004,
+Q6867519,Ministry of Rural and Regional Development,Q30601414,Minister of Rural and Regional Development,,
+Q6867519,Ministry of Rural and Regional Development,Q113457121,Q113457121,,
+Q4294467,"Ministry of Science, Technology and Innovation",Q30601444,"Minister of Science, Technology and Innovation",2009,
+Q4294467,"Ministry of Science, Technology and Innovation",Q30601444,"Minister of Science, Technology and Innovation",1973,
+Q4294467,"Ministry of Science, Technology and Innovation",Q113455769,Q113455769,2009,
+Q4294467,"Ministry of Science, Technology and Innovation",Q113455769,Q113455769,1973,
+Q6867583,"Ministry of Tourism, Arts and Culture",Q25242001,Minister of Tourism and Culture,2013,
+Q6867583,"Ministry of Tourism, Arts and Culture",Q113457163,Q113457163,2013,
+Q6867616,Ministry of Transport,Q25242000,Minister of Transport,1978,
+Q6867616,Ministry of Transport,Q113455733,Q113455733,1978,
+Q4294580,"Ministry of Women, Family and Community Development",Q30601417,"Minister of Women, Family and Community Development",2001,
+Q4294580,"Ministry of Women, Family and Community Development",Q113457120,Q113457120,2001,
+Q6867660,Ministry of Works,Q30601411,Minister of Works,,
+Q6867660,Ministry of Works,Q113457158,Q113457158,,
+Q6867668,Ministry of Youth and Sports,Q30601401,Minister of Youth and Sports,,
+Q6867668,Ministry of Youth and Sports,Q113457159,Q113457159,,
+Q4294779,Ministry of the Federal Territories,Q30601408,Minister of Federal Territories,,
+Q4294779,Ministry of the Federal Territories,Q113457128,Q113457128,,

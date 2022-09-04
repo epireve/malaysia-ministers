@@ -118,18 +118,13 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Yang Amat Berhormat Ustaz Dato' Bentara Kanan Haji",
+            "text": "Yang Amat Berhormat Dato' Bentara Kanan Haji",
             "links": [
               {
                 "text": "Yang Amat Berhormat",
                 "type": "internal",
                 "page": "Malay styles and titles",
                 "anchor": "Honorary styles"
-              },
-              {
-                "text": "Ustaz",
-                "type": "internal",
-                "page": "Ustad"
               },
               {
                 "text": "Dato' Bentara Kanan",

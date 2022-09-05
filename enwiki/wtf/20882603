@@ -1006,6 +1006,13 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Over a period of about 17 months betwee 2015-17, as Minister of Education, Mahdzir was pressured to award a contract for the provision of electricity to rural Sarawak schools to Jepak Holdings."
+            }
+          ]
         }
       ],
       "references": [
@@ -1042,12 +1049,76 @@
           "archive-date": "2 November 2014",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Rosmah verdict: Ex-PM's wife sentenced to 10 years' jail, fined RM970mil",
+          "url": "https://www.thestar.com.my/news/nation/2022/09/01/rosmah-trial-verdict-day-timeline",
+          "access-date": "2022-09-04",
+          "website": "The Star",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Mazlan",
+          "first": "Mohamed Zaini",
+          "date": "1 September 2022",
+          "title": "Grounds of Decision, High Court of Malaya, Public Prosecutor v. Rosmah binti Mansor",
+          "url": "https://cdn.thestar.com.my/Content/PDF/Full_judgment_PP_v_Rosmah_Mansor.pdf",
+          "website": "The Star",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
     {
       "title": "Election results",
+      "depth": 0
+    },
+    {
+      "title": "Jepak Holdings",
       "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In late 2015, Saidi Bin Abang Samsudin and Rayyan Radzwill bin Abdullah proposed to the Ministry of Education that it award their company, Jepak Holdings Sdn Bhd, a contract to replace other contractors for the provision of maintenance of diesel electric generators at rural and interior Sarawak schools and install a hybrid solar voltaic system for RM1.25 billion."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As Minister of Education, Mahdzir did not favour the proposal as the Ministry’s technical experts doubted Jepak’s expertise and the Ministry had already planned to connect some of the schools to the electricity grid."
+            },
+            {
+              "text": "Saidi and Rayyan then sought the assistance of Rosmah binti Mansor, wife of Prime Minister Najib Razak, to effect the contract.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rosmah binti Mansor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Najib Razak"
+                }
+              ]
+            },
+            {
+              "text": "Saidi and Rayyan agreed to pay Rosmah 15% of the contract sum, or RM187.5 million, for her help."
+            },
+            {
+              "text": "In December 2016, Rosnah called Mahdzir to urge him to award the contract."
+            },
+            {
+              "text": "Eventually, the Ministry signed a contract with Jepak in June 2017."
+            },
+            {
+              "text": "In September 2022, Rosmah was convicted in the High Court of Malaya of bribery in relation to the Jepak contract."
+            }
+          ]
+        }
+      ],
       "tables": [
         [
           {
@@ -1429,6 +1500,36 @@
         }
       ],
       "references": [
+        {
+          "title": "Rosmah verdict: Ex-PM's wife sentenced to 10 years' jail, fined RM970mil",
+          "url": "https://www.thestar.com.my/news/nation/2022/09/01/rosmah-trial-verdict-day-timeline",
+          "access-date": "2022-09-04",
+          "website": "The Star",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Rosmah verdict: Ex-PM's wife sentenced to 10 years' jail, fined RM970mil",
+          "url": "https://www.thestar.com.my/news/nation/2022/09/01/rosmah-trial-verdict-day-timeline",
+          "access-date": "2022-09-04",
+          "website": "The Star",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Latiff",
+          "first": "Rozanna",
+          "date": "2022-09-01",
+          "title": "Malaysia's former first lady Rosmah sentenced to 10 years in jail for graft",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/malaysian-court-deliver-verdict-corruption-trial-former-first-lady-rosmah-2022-08-31/",
+          "access-date": "2022-09-04",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "url": "http://resultpru13.spr.gov.my/module/keputusan/paparan/paparan_laporan.php",
           "title": "KEPUTUSAN PILIHAN RAYA UMUM 13",

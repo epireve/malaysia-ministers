@@ -910,7 +910,7 @@
         {
           "sentences": [
             {
-              "text": "Ismail was re-elected in 2008 general election, and was appointed in the third cabinet of Prime Minister Abdullah Badawi as Minister for Youth and Sports (2008–2009).",
+              "text": "Ismail Sabri was re-elected in 2008 general election, and was appointed in the third cabinet of former Prime Minister Abdullah Ahmad Badawi as Minister for Youth and Sports.",
               "links": [
                 {
                   "text": "2008 general election",
@@ -924,12 +924,21 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Abdullah Badawi"
+                  "page": "Abdullah Ahmad Badawi"
                 },
                 {
                   "text": "Minister for Youth and Sports",
                   "type": "internal",
                   "page": "Minister of Youth and Sports (Malaysia)"
+                }
+              ]
+            },
+            {
+              "text": "He served in the position from 2008 to 2009 for a year when Abdullah resigned as prime minister and was replaced by Najib Razak who switched Ismail Sabri to another ministerial portfolio.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Najib Razak"
                 }
               ]
             }
@@ -1553,7 +1562,7 @@
         {
           "sentences": [
             {
-              "text": "Ahmad Zahid has repeatedly called for the next Malaysian general election to be held as soon as possible while Ismail Sabri remains uninterestedand undecided on the issue.",
+              "text": "Ahmad Zahid has repeatedly called for the next Malaysian general election to be held as soon as possible while Ismail Sabri remains uninterested and undecided on the issue.",
               "links": [
                 {
                   "text": "next Malaysian general election",
@@ -1561,6 +1570,9 @@
                   "page": "next Malaysian general election"
                 }
               ]
+            },
+            {
+              "text": "However, Ismail Sabri also promised to hold the election when the \"time is right\" and when he is confident that BN will win it and return to power."
             }
           ]
         }
@@ -1583,10 +1595,10 @@
               ]
             },
             {
-              "text": "The position of Ismail Sabri as the UMNO first vice president has allowed him to be appointed to replace Ahmad Zahid."
+              "text": "The position of Ismail Sabri as the UMNO first vice president has allowed him to be appointed to replace Ahmad Zahid instead of UMNO deputy president Mohamad Hasan."
             },
             {
-              "text": "Although Mohamad Hasan is ranked higher than Ismail Sabri as the UMNO deputy president, he was not an elected MP and did not satisfy the criteria to be appointed to the position."
+              "text": "Although Mohamad is ranked higher than Ismail Sabri as the UMNO deputy president, he was not an elected MP and did not satisfy the criteria to be appointed to the position."
             }
           ]
         }
@@ -2342,8 +2354,9 @@
                   "page": "Asssociation of Southeast Asian Nations"
                 },
                 {
+                  "text": "English",
                   "type": "internal",
-                  "page": "English"
+                  "page": "English language"
                 }
               ]
             },

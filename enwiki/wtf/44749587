@@ -464,22 +464,56 @@
             ]
           },
           "office3": {
+            "text": "State Chairperson of the Pakatan Harapan of Pahang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pakatan Harapan"
+              },
+              {
+                "type": "internal",
+                "page": "Pahang"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "6 September 2022"
+          },
+          "predecessor3": {
+            "text": "Fuziah Salleh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fuziah Salleh"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Anwar Ibrahim",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anwar Ibrahim"
+              }
+            ]
+          },
+          "office4": {
             "text": "Exco roles (Selangor)"
           },
-          "subterm3": {
+          "subterm4": {
             "text": "2014–2018"
           },
-          "suboffice3": {
+          "suboffice4": {
             "text": "Chairman of the Youth Generation Development, Sports, Culture and Entrepreneur Development"
           },
-          "subterm4": {
+          "subterm5": {
             "text": "2018",
             "number": 2018
           },
-          "suboffice4": {
+          "suboffice5": {
             "text": "Chairman of the Youth Generation Development, Sports, Entrepreneur Development, Rural Development and Tradition Villages"
           },
-          "office5": {
+          "office6": {
             "text": "Faction represented in Selangor State Legislative Assembly",
             "links": [
               {
@@ -488,10 +522,10 @@
               }
             ]
           },
-          "subterm5": {
+          "subterm6": {
             "text": "2008–2018"
           },
-          "suboffice5": {
+          "suboffice6": {
             "text": "People's Justice Party",
             "links": [
               {
@@ -501,10 +535,10 @@
               }
             ]
           },
-          "subterm6": {
+          "subterm7": {
             "text": "2018–"
           },
-          "suboffice6": {
+          "suboffice7": {
             "text": "Pakatan Harapan",
             "links": [
               {

@@ -2232,16 +2232,17 @@
               ]
             },
             "Constituency": {
-              "text": "N18 Hulu Kelang",
+              "text": "Hulu Kelang",
               "links": [
                 {
+                  "text": "Hulu Kelang",
                   "type": "internal",
-                  "page": "Hulu Kelang"
+                  "page": "Hulu Kelang (state constituency)"
                 }
               ],
               "formatting": {
                 "bold": [
-                  "N18 Hulu Kelang"
+                  "Hulu Kelang"
                 ]
               }
             },
@@ -2314,7 +2315,7 @@
               ]
             },
             "Constituency": {
-              "text": "N19 Bukit Antarabangsa",
+              "text": "Bukit Antarabangsa",
               "links": [
                 {
                   "text": "Bukit Antarabangsa",
@@ -2324,7 +2325,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "N19 Bukit Antarabangsa"
+                  "Bukit Antarabangsa"
                 ]
               }
             },
@@ -2392,7 +2393,7 @@
               ]
             },
             "Constituency": {
-              "text": "N19 Bukit Antarabangsa",
+              "text": "Bukit Antarabangsa",
               "links": [
                 {
                   "text": "Bukit Antarabangsa",
@@ -2402,7 +2403,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "N19 Bukit Antarabangsa"
+                  "Bukit Antarabangsa"
                 ]
               }
             },
@@ -2470,7 +2471,7 @@
               ]
             },
             "Constituency": {
-              "text": "N19 Bukit Antarabangsa",
+              "text": "Bukit Antarabangsa",
               "links": [
                 {
                   "text": "Bukit Antarabangsa",
@@ -2480,7 +2481,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "N19 Bukit Antarabangsa"
+                  "Bukit Antarabangsa"
                 ]
               }
             },
@@ -2577,7 +2578,7 @@
               "text": "5.96%"
             },
             "Opponent(s)": {
-              "text": "N19 Bukit Antarabangsa",
+              "text": "Bukit Antarabangsa",
               "links": [
                 {
                   "text": "Bukit Antarabangsa",
@@ -2587,7 +2588,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "N19 Bukit Antarabangsa"
+                  "Bukit Antarabangsa"
                 ]
               }
             },
@@ -2648,7 +2649,7 @@
               "text": "0.30%"
             },
             "Opponent(s)": {
-              "text": "N19 Bukit Antarabangsa",
+              "text": "Bukit Antarabangsa",
               "links": [
                 {
                   "text": "Bukit Antarabangsa",
@@ -2658,7 +2659,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "N19 Bukit Antarabangsa"
+                  "Bukit Antarabangsa"
                 ]
               }
             },
@@ -2726,7 +2727,7 @@
               "text": "0.23%"
             },
             "Opponent(s)": {
-              "text": "N19 Bukit Antarabangsa",
+              "text": "Bukit Antarabangsa",
               "links": [
                 {
                   "text": "Bukit Antarabangsa",
@@ -2736,7 +2737,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "N19 Bukit Antarabangsa"
+                  "Bukit Antarabangsa"
                 ]
               }
             },
@@ -2782,7 +2783,7 @@
               ]
             },
             "Constituency": {
-              "text": "P98 Gombak, Selangor.",
+              "text": "Gombak",
               "links": [
                 {
                   "text": "Gombak",
@@ -2792,7 +2793,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "P98 Gombak, Selangor."
+                  "Gombak"
                 ]
               }
             },
@@ -2860,7 +2861,7 @@
               ]
             },
             "Constituency": {
-              "text": "P98 Gombak, Selangor.",
+              "text": "Gombak",
               "links": [
                 {
                   "text": "Gombak",
@@ -2870,7 +2871,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "P98 Gombak, Selangor."
+                  "Gombak"
                 ]
               }
             },
@@ -2971,7 +2972,7 @@
               "text": "0.45%"
             },
             "Opponent(s)": {
-              "text": "P98 Gombak, Selangor.",
+              "text": "Gombak",
               "links": [
                 {
                   "text": "Gombak",
@@ -2981,7 +2982,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "P98 Gombak, Selangor."
+                  "Gombak"
                 ]
               }
             },
@@ -3020,7 +3021,7 @@
               ]
             },
             "Constituency": {
-              "text": "P98 Gombak, Selangor.",
+              "text": "Gombak",
               "links": [
                 {
                   "text": "Gombak",
@@ -3030,7 +3031,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "P98 Gombak, Selangor."
+                  "Gombak"
                 ]
               }
             },
@@ -3127,7 +3128,7 @@
               "text": "14.73%"
             },
             "Opponent(s)": {
-              "text": "P98 Gombak, Selangor.",
+              "text": "Gombak",
               "links": [
                 {
                   "text": "Gombak",
@@ -3137,7 +3138,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "P98 Gombak, Selangor."
+                  "Gombak"
                 ]
               }
             },

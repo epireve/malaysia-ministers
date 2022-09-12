@@ -2338,7 +2338,7 @@
         {
           "sentences": [
             {
-              "text": "Ismail Sabri highly emphasised the use of Bahasa Malaysia language among Malaysians.",
+              "text": "Ismail Sabri highly emphasised the use of Bahasa Malaysia (Malaysian language) among Malaysians.",
               "links": [
                 {
                   "type": "internal",
@@ -2370,10 +2370,10 @@
               "text": "Right from the start, he walked his talk by using the language at formal meetings with foreign dignitaries at home and abroad."
             },
             {
-              "text": "He added that \"we do not need to feel ashamed or awkward to use Bahasa Melayu at the international level because this effort to uphold the language is also in line with one of the priority areas\"."
+              "text": "He added that \"we do not need to feel ashamed or awkward to use Bahasa Malaysia at the international level because this effort to uphold the language is also in line with one of the priority areas\"."
             },
             {
-              "text": "On 7 September 2022, he praised and wished newly-elected Malaysian-born Member of Parliament (MP) of Australia for Tangney Sam Lim the best for speaking the language during his inaugural speech in the Parliament of Australia.",
+              "text": "On 7 September 2022, he praised and wished the newly-elected Malaysian-born Member of Parliament (MP) for Tangney of Australia Sam Lim the best for speaking the language during his inaugural speech in the Parliament of Australia.",
               "links": [
                 {
                   "type": "internal",
@@ -2381,11 +2381,11 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Australia"
+                  "page": "Tangney"
                 },
                 {
                   "type": "internal",
-                  "page": "Tangney"
+                  "page": "Australia"
                 },
                 {
                   "type": "internal",

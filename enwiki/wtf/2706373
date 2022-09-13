@@ -483,8 +483,11 @@
               }
             ]
           },
+          "image": {
+            "text": "Hishamuddin2014.jpg"
+          },
           "caption": {
-            "text": "Official portrait, 2021"
+            "text": "Hishammuddin in 2014"
           },
           "office": {
             "text": "Senior Minister of Security Cluster",
@@ -1250,7 +1253,7 @@
             ]
           },
           "relations": {
-            "text": "Jaafar Muhammad (great-grandfather)\nOnn Jaafar (grandfather)\nMohamed Noah Omar (grandfather)\nOnn Hafiz Ghazi (nephew)\nAbdul Razak Hussein (uncle)\nNajib Razak (cousin)",
+            "text": "Jaafar Muhammad (great-grandfather)\nOnn Jaafar (grandfather)\nMohamed Noah Omar (grandfather)\nOnn Hafiz Ghazi (nephew)\nAbdul Razak Hussein (uncle)\nNajib Razak (cousin)\nYahya Awang (brother-in-law)",
             "links": [
               {
                 "type": "internal",
@@ -1275,6 +1278,10 @@
               {
                 "type": "internal",
                 "page": "Najib Razak"
+              },
+              {
+                "type": "internal",
+                "page": "Yahya Awang"
               }
             ]
           }

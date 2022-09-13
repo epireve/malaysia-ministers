@@ -2232,7 +2232,7 @@
               ]
             },
             "Constituency": {
-              "text": "Hulu Kelang",
+              "text": "N18 Hulu Kelang",
               "links": [
                 {
                   "text": "Hulu Kelang",
@@ -2242,7 +2242,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Hulu Kelang"
+                  "N18 Hulu Kelang"
                 ]
               }
             },
@@ -2281,7 +2281,7 @@
                 {
                   "text": "Fuad Hassan",
                   "type": "internal",
-                  "page": ":ms:Fuad Hassan"
+                  "page": "Fuad Hassan (Malaysian politician)"
                 },
                 {
                   "text": "UMNO",
